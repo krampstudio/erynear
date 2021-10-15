@@ -1,0 +1,14 @@
+html, body, h1 {
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Criel-sur-Mer%2C_Seine-Maritime%2C_France.jpg/1920px-Criel-sur-Mer%2C_Seine-Maritime%2C_France.jpg");
+}
+
+header h1 {
+  margin: 50px;
+}
