@@ -8,7 +8,14 @@ collections:
     create: true
     fields:
       - name: title
-      - name: nav_label
+        label: "Titre"
+      - name: label
+        label: "Section"
+      - label: "Paneau images"
+        name: sideImages
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
       - name: body
         widget: markdown
 media_folder: "static/uploads"
