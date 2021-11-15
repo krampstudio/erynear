@@ -1,11 +1,12 @@
 ---
-label: Acceuil
 title: Eryn Ëar
+label: Acceuil
 sideImages:
   - /assets/home/1.jpg
   - /assets/home/2.jpg
   - /assets/home/3.jpg
   - /assets/home/4.jpg
+  - /uploads/6.jpg
 nav_label: Présentation
 ---
 ## PETIT  REFUGE  BLOTTI  AU  CREUX  DE  LA  FALAISE …
