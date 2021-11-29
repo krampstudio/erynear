@@ -163,6 +163,12 @@
     main section :global(p) {
         margin-bottom: 1rem;
     }
+    main section :global(img) {
+        max-width: 33vw;
+        margin: .5rem;
+        display: inline-block;
+        vertical-align: top;
+    }
     main section.with-side {
         width: 60%;
     }
