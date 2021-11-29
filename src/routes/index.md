@@ -9,13 +9,7 @@ La **curiosité** vous dévore … vous désirez ardemment savoir à quoi peut b
 
 Toujours piqués au vif ? Alors, faites expressément vos **bagages** et venez vous reposer quelques temps dans ce charmant petit **gîte d’Eryn Eär.** Il est situé en **Normandie**, **sur la côte d’Albâtre, à** **Criel sur Mer.** Plus précisément, le gîte est installé à **800 mètres à peine de la mer et de la falaise**.
 
-![](/uploads/7.jpg)
-
-![](/uploads/8.jpg)
-
-![](/uploads/5.jpg)
-
-![](/uploads/6.jpg)
+![](/uploads/7.jpg) ![](/uploads/8.jpg) ![](/uploads/5.jpg) ![](/uploads/6.jpg)
 
 **Gîte indépendant de 110 m² entouré d’un écrin de verdure de 1000 m²**. Il peut accueillir jusqu’à **10** personnes. Depuis l’ouest du jardin et depuis l’une des chambres, vous pourrez admirer la Mer…
 
