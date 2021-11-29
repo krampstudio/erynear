@@ -15,9 +15,10 @@
         height: 100vh;
         position: relative;
         overflow: hidden;
-        padding: 1rem 2rem;
+        padding: 1rem 3rem;
         display: flex;
         flex-flow: column nowrap;
+
     }
     header h1, header h2, header h3, header h4, header nav {
         position: relative;
@@ -25,30 +26,36 @@
     }
     header h1, header h2, header h3, header h4 {
         font-family: 'Traditian';
-        text-shadow: 1px 1px 1px #aaa;
+        text-shadow: 2px 2px 1px #ccc;
     }
     header h3, header h4 {
         font-family: 'Dumbledor1';
-        text-shadow: 1px 1px 1px #aaa;
+        text-shadow: 2px 2px 1px #ccc;
         letter-spacing: 0;
+        text-align: center;
     }
     header h1 {
-        font-size: 5rem;
+        font-size: 4.5rem;
         font-weight: bold;
+        margin-bottom: 2rem;
     }
     header h2 {
-        font-size: 3rem;
+        font-size: 3.25rem;
+        margin-top: 3rem;
+        text-align: center;
     }
     header h3 {
         font-size: 2rem;
     }
     header h4 {
         font-size: 2rem;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 0.35);
+        padding:.5rem 1rem;
+        border-radius: 4px;
     }
-    header h3, header h4{
-        text-align: center;
-    }
-    .separator {
+
+    header .separator {
         flex-grow:2;
     }
     header nav a{
@@ -61,14 +68,64 @@
         color: #000;
     }
     header nav ul {
-        background-color: rgba(255, 255, 255, 0.1);
-        border-radius: 3px;
+        background-color: rgba(255, 255, 255, 0.35);
+        border-radius: 4px;
         list-style-type: none;
         display: flex;
-        flex-flow: row nowrap;
-        justify-content: space-around;
-        padding:0;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+        padding: 0;
     }
+    header nav ul li {
+        padding: 0.5rem;
+    }
+
+    @media screen and (max-width: 1280px) {
+        header {
+            padding: 1rem 2rem;
+        }
+
+    }
+
+    @media screen and (max-width: 1024px) {
+        header h2 {
+            font-size: 2.5rem;
+        }
+        header h3 {
+            font-size: 1.75rem;
+        }
+    }
+
+    @media screen and (max-width: 900px) {
+        header h2 {
+            text-align: center;
+            font-size: 2rem;
+        }
+        header h3 {
+            font-size: 1.5rem;
+        }
+        header h4 {
+            display: none;
+        }
+    }
+
+    @media screen and (max-height: 600px) {
+        header h4 {
+            display: none;
+        }
+    }
+
+    @-webkit-keyframes slide {
+        0% {margin-left: 0px;}
+        28% {margin-left: 0px;}
+        30% {margin-left: -100vw;}
+        58% {margin-left: -100vw}
+        60% {margin-left: -200vw;}
+        88% {margin-left: -200vw;}
+        90% {margin-left: -300vw;}
+        100% {margin-left: -300vw;}
+    }
+
     .carousel {
         z-index: 50;
         position: absolute;
@@ -76,14 +133,26 @@
         left: 0;
         right: 0;
         bottom: 0;
-        overflow: hidden;
+
     }
-    .carousel img {
-        width: 100%;
+    .carousel .carousel-wrapper {
+        position: relative;
+        overflow: hidden;
+        width: calc(400vw + 4rem);
+        display: flex;
+        flex-flow: row nowrap;
+        animation: slide 60s ease infinite alternate;
+    }
+    .carousel .carousel-wrapper img {
+        flex: 0 0 100vw;
+        width: 100vw;
+        height: 100vh;
         object-fit: cover;
     }
+
     main {
         display: flex;
+        background-color: ivory;
     }
     main section {
         padding: 1rem;
@@ -135,10 +204,12 @@
       Bouquiner – Jouer – se Défouler<br>
       S’évader - s’Oxygéner- se Ressourcer</h4>
     <div class="carousel">
-        <img src="/assets/home/1.jpg" alt="" />
-        <img src="/assets/home/2.jpg" alt="" />
-        <img src="/assets/home/3.jpg" alt="" />
-        <img src="/assets/home/4.jpg" alt="" />
+        <div class="carousel-wrapper">
+            <img src="/assets/home/1.jpg" alt="" />
+            <img src="/assets/home/2.jpg" alt="" />
+            <img src="/assets/home/3.jpg" alt="" />
+            <img src="/assets/home/4.jpg" alt="" />
+        </div>
     </div>
   </header>
   <main>
