@@ -155,9 +155,9 @@
         background-color: ivory;
     }
     main section {
-        padding: 1rem;
+        padding: 2rem 3rem;
         font-family: 'Dumbledor1';
-        font-size: 1.35rem;
+        font-size: 1.45rem;
         letter-spacing: 0;
     }
     main section :global(p) {
