@@ -2,23 +2,26 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="/favicon.png" />
+		<link rel="icon" href="/assets/crabe.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <meta name="author" content="Krampstudio" />
+        <meta name="copyright" content="Website by krampstudio.com, content by Stéphanie Leconte & Guillaume Goujon, CC-BY-SA" />
+        <meta name="description" content="Gîte à Criel-sur-Mer en Normandie, proche de la mer." />
+        <meta name="keywords" conten="gîte,gite,normandie,dieppe,location,criel-sur-mer,mer" />
+        <meta name="robots" content="index, follow">
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		%svelte.head%
 	</head>
 	<body>
 		<div id="svelte">%svelte.body%</div>
 		<script>
-		  if (window.netlifyIdentity) {
-		    window.netlifyIdentity.on("init", user => {
-		      if (!user) {
-			window.netlifyIdentity.on("login", () => {
-			  document.location.href = "/admin/";
-			});
-		      }
-		    });
-		  }
+		    if (window.netlifyIdentity) {
+		        window.netlifyIdentity.on("init", user => {
+		            if (!user) {
+                        window.netlifyIdentity.on("login", () => (document.location.href = "/admin/"));
+		            }
+		        });
+		    }
 		</script>
 	</body>
 </html>

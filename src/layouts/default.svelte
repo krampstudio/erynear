@@ -35,7 +35,7 @@
         text-align: center;
     }
     header h1 {
-        font-size: 4.5rem;
+        font-size: 5rem;
         font-weight: bold;
         margin-bottom: 2rem;
     }
@@ -152,23 +152,52 @@
 
     main {
         display: flex;
-        background-color: ivory;
+        background-color: #fffff6 ;
     }
     main section {
         padding: 2rem 3rem;
         font-family: 'Dumbledor1';
-        font-size: 1.45rem;
+        font-size: 1.6rem;
         letter-spacing: 0;
     }
+
+
     main section :global(p) {
         margin-bottom: 1rem;
     }
     main section :global(img) {
-        max-width: 33vw;
+        max-width: 25vw;
+        max-height: 250px;
         margin: .5rem;
         display: inline-block;
         vertical-align: top;
     }
+
+    main section :global(h2) {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 2rem;
+    }
+    main section :global(h3) {
+        font-size: 2.25rem;
+        display: flex;
+        margin-bottom: 1.5rem;
+    }
+    main section :global(h3:before) {
+        content: ' ';
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        background-image: url('/assets/crabe.png');
+        background-size: 1.5em 1.5em;
+        background-repeat: no-repeat;
+        margin-right: 1rem;
+    }
+    main section :global(h4) {
+        font-size: 1.85rem;
+        margin-bottom: 1.25rem;
+    }
+
     main section.with-side {
         width: 60%;
     }
@@ -181,6 +210,14 @@
     main aside div img{
         height: 100%;
         object-fit: cover;
+    }
+
+    footer {
+        min-height: 50vh;
+        background-color: #111;
+        color: white;
+        text-align: center;
+        padding-top: 10vh;
     }
 
 </style>
@@ -233,4 +270,4 @@
       {/if}
   </main>
 
-<footer></footer>
+<footer>gallerie</footer>

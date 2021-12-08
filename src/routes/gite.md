@@ -4,7 +4,7 @@ label: Le gîte
 ---
 ## Le gîte
 
-## La démarche et la présentation du gîte
+### La démarche et la présentation du gîte
 
 **Tout d’abord, le nom de la maison… Eryn Eär…** Il s’agit de mettre en valeur l’alliance entre **la mer** : **Eär** et les bois, prairies et **forêts** : **Eryn**. Les particularités de ce paysage insolite seront présentées plus en détail dans le chapitre « *Bienvenue en Terre d’Eryn Eär* », illustré de photos.
 
@@ -16,11 +16,11 @@ Vous pénétrez d’abord dans le jardin luxuriant et sinueux. Même si vos baga
 
 Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détent!
 
-## La position stratégique d’Eryn Eär
+### La position stratégique d’Eryn Eär
 
 Le gîte est **judicieusement positionné**, **spatialement** dans Criel et **géographiquement** par rapport à vos déplacements.
 
- **Eryn Eär** se situe sur le **flanc de la vallée**, à une **hauteur** suffisante pour observer la Mer depuis l’une des chambres de la maison et depuis le jardin. Egalement installé face au **Mont Joli Bois** et à la **vallée de l’Yères**, vous pourrez librement observer la Nature.
+  **Eryn Eär** se situe sur le **flanc de la vallée**, à une **hauteur** suffisante pour observer la Mer depuis l’une des chambres de la maison et depuis le jardin. Egalement installé face au **Mont Joli Bois** et à la **vallée de l’Yères**, vous pourrez librement observer la Nature.
 
 Cette position, en léger retrait par rapport à la côte, présente un autre avantage… et non des moindres …  Vous éviterez ainsi d’être brusquement réveillés, dès l’aurore, par la mélodie stridente de nos amis les Goélands… Et croyez-en ma vieille expérience, ceci est une petite réalité qui vous sautera très rapidement aux yeux, ou plutôt aux oreilles !
 
@@ -28,11 +28,11 @@ Cette position, en léger retrait par rapport à la côte, présente un autre av
 
 Le gîte Eryn Eär peut servir de **point d’étape** pour découvrir toute la Normandie sur plusieurs semaines ou de **point central** pour rayonner autour. Il est en effet fort plaisant de pouvoir choisir entre **des journées plutôt tranquilles et des journées de type excursions.**
 
- Si vous **optez pour le repos, l’oubli de la voiture** (ou presque), vous pourrez absolument tout faire à pied ou en vélo : se ravitailler dans les divers échoppes du bourg ou de la plage, aller à la pêche, se baigner, se promener, observer la nature, boire un godet en terrasse …
+☸ Si vous **optez pour le repos, l’oubli de la voiture** (ou presque), vous pourrez absolument tout faire à pied ou en vélo : se ravitailler dans les divers échoppes du bourg ou de la plage, aller à la pêche, se baigner, se promener, observer la nature, boire un godet en terrasse …
 
- Si vous êtes d’avantage en mode **baroudeur**, pas de soucis ! Il vous suffit de vous lever un chouia plus tôt pour partir à la découverte d’endroits magnifiques et surprenants. Vous pourrez visiter par exemple Le Tréport, Dieppe, Veules les Roses, Varengeville sur Mer, Rouen, Neufchâtel en Bray. Vous pourrez même franchir les frontières normandes, vous aventurer en Picardie et visiter la splendide Baie de Somme.
+☸ Si vous êtes d’avantage en mode **baroudeur**, pas de soucis ! Il vous suffit de vous lever un chouia plus tôt pour partir à la découverte d’endroits magnifiques et surprenants. Vous pourrez visiter par exemple Le Tréport, Dieppe, Veules les Roses, Varengeville sur Mer, Rouen, Neufchâtel en Bray. Vous pourrez même franchir les frontières normandes, vous aventurer en Picardie et visiter la splendide Baie de Somme.
 
- Enfin, reste les véritables **expéditions** impliquant une plus grande préparation pour un départ avant l’aube et un retour le soir, bien après le coucher du soleil. Dans ce cas, vous pourrez découvrir des endroits célèbres tels qu’Etretat, Fécamp, Honfleur, Deauville, Jumièges, Les Andelys, Giverny …
+☸ Enfin, reste les véritables **expéditions** impliquant une plus grande préparation pour un départ avant l’aube et un retour le soir, bien après le coucher du soleil. Dans ce cas, vous pourrez découvrir des endroits célèbres tels qu’Etretat, Fécamp, Honfleur, Deauville, Jumièges, Les Andelys, Giverny …
 
 Tous ces lieux situés entre 1 minute et 2 heures du gîte vous seront présentés plus en détail dans **le chapitre intitulé « *Bienvenue en Terre d’Eryn Eär* »**
 
