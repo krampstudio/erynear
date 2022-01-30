@@ -1,4 +1,5 @@
 <script>
+    import { onMount } from 'svelte';
     import 'modern-css-reset';
     import '../base.css';
 
@@ -6,7 +7,7 @@
     export let label;
     export let sideImages;
 
-    $: hasSideImages = sideImages && sideImages.length;
+   $: hasSideImages = sideImages && sideImages.length;
 
 </script>
 <style>
@@ -159,8 +160,8 @@
         font-family: 'Dumbledor1';
         font-size: 1.6rem;
         letter-spacing: 0;
+        line-height: 1.3;
     }
-
 
     main section :global(p) {
         margin-bottom: 1rem;
@@ -194,12 +195,24 @@
         margin-right: 1rem;
     }
     main section :global(h4) {
-        font-size: 1.85rem;
+        font-size: 1.6rem;
         margin-bottom: 1.25rem;
+        font-weight: normal;
     }
     main section :global(h4:before) {
         content: '🙠 ';
     }
+
+    main section :global(h5) {
+        font-size: 1.6rem;
+        margin-top: 0;
+        margin-bottom: 1.25rem;
+        font-weight: normal;
+    }
+    main section :global(h5:before) {
+        content: '☸';
+    }
+
 
     main section.with-side {
         width: 60%;
@@ -225,9 +238,6 @@
 
 </style>
 
-<svelte:head>
-    <title>{title} {label}</title>
-</svelte:head>
 
   <header>
     <h1>Eryn Eär</h1>
