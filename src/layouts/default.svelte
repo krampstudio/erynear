@@ -197,6 +197,9 @@
         font-size: 1.85rem;
         margin-bottom: 1.25rem;
     }
+    main section :global(h4:before) {
+        content: '🙠 ';
+    }
 
     main section.with-side {
         width: 60%;

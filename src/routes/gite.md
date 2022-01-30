@@ -1,8 +1,12 @@
----
-title: Eryn Ëar - Le Gîte
-label: Le gîte
----
+<script>
+    import Map from '../Maps.svelte';
+    export let title = 'Eryn Ëar - Le Gîte';
+    export let label = 'Le gîte';
+</script>
+
 ## Le gîte
+
+<Map />
 
 ### La démarche et la présentation du gîte
 
@@ -24,7 +28,7 @@ Le gîte est **judicieusement positionné**, **spatialement** dans Criel et **g�
 
 Cette position, en léger retrait par rapport à la côte, présente un autre avantage… et non des moindres …  Vous éviterez ainsi d’être brusquement réveillés, dès l’aurore, par la mélodie stridente de nos amis les Goélands… Et croyez-en ma vieille expérience, ceci est une petite réalité qui vous sautera très rapidement aux yeux, ou plutôt aux oreilles !
 
- **La position géographique** du gîte est, quant à elle**,** adaptée **aux différents modes de vacances** que vous avez envisagés.
+#### **La position géographique** du gîte est, quant à elle**,** adaptée **aux différents modes de vacances** que vous avez envisagés.
 
 Le gîte Eryn Eär peut servir de **point d’étape** pour découvrir toute la Normandie sur plusieurs semaines ou de **point central** pour rayonner autour. Il est en effet fort plaisant de pouvoir choisir entre **des journées plutôt tranquilles et des journées de type excursions.**
 
