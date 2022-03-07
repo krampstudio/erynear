@@ -11,7 +11,7 @@
 
 **Tout d’abord, le nom de la maison… Eryn Eär…** Il s’agit de mettre en valeur l’alliance entre **la mer** : **Eär** et les bois, prairies et **forêts** : **Eryn**. Les particularités de ce paysage insolite seront présentées plus en détail dans le chapitre « *Bienvenue en Terre d’Eryn Eär* », illustré de photos.
 
-<div style="float: left; margin: 0 .5rem .5rem 0;">
+<div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map />
 </div>
 
@@ -22,6 +22,8 @@ Dès que vous franchissez le portail **d’Eryn Eär**, vous serez instantanéme
 Vous pénétrez d’abord dans le jardin luxuriant et sinueux. Même si vos bagages sont lourds, prenez le temps d’admirer la mer que l’on aperçoit entre les branches de deux arbres. Dirigez-vous ensuite vers la porte d’entrée, ouvrez-là, vous êtes arrivés… vous êtes en vacances ! L’intérieur, se veut **douillet et confortable** avec une multitude de **livres** en tout genre, des **jeux de société** originaux, tout le **matériel de pêche à pied**, un **billard** et tout un équipement qui vous permettra d’atteindre une parfaite béatitude.
 
 Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détent!
+
+![](/uploads/gite_0.jpg)
 
 ### La position stratégique d’Eryn Eär
 
@@ -43,75 +45,67 @@ Le gîte Eryn Eär peut servir de **point d’étape** pour découvrir toute la 
 
 Tous ces lieux situés entre 1 minute et 2 heures du gîte vous seront présentés plus en détail dans **le chapitre intitulé « *Bienvenue en Terre d’Eryn Eär* »**
 
-
-
-## Visite guidée des pièces
+### Visite guidée des pièces
 
 Pour se faire **une première idée du gîte**, voici une **description des pièces**. Le gîte peut accueillir environ 10 personnes réparties dans les 3 chambres, principalement à **caractère familiale**. Ces trois chambres peuvent également faire office de dortoirs si l’on vient par exemple entre amis. Chacune possède des fenêtres donnant sur le jardin. Si vous confirmez la location, un **document plus complet** vous sera envoyé par goéland … oups, par mail. Nous travaillons avec eux uniquement pour les petits trajets urgents. Ces oiseaux marins sont très capricieux. Vous aurez très certainement l’occasion de découvrir leur charmant caractère… (non, non, je n’ai aucune rancœur envers eux …).
 
-#### **Mais, laissons là ces oiseaux et franchissons ensemble la porte d'entrée pour commencer la visite du rez-de-chaussée** :
+#### **Mais, laissons là ces oiseaux et franchissons ensemble la porte d'entrée pour commencer la visite du rez-de-chaussée :**
 
-Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres et gite* ».
+Plusieurs autres photos des pièces sont visibles dans la galerie « _chambres et gite_ ».
 
-##### **Le hall d’entrée**, **Talam Ando** : Etagère-porte-manteaux, coffre et ranges chaussures. Panneau d’affichage « bons plans ». Tableaux d’instructions et porte d’accès au garage.
+##### **Le hall d’entrée, _Talam Ando_ :** Etagère-porte-manteaux, coffre et ranges chaussures. Panneau d’affichage « bons plans ». Tableaux d’instructions et porte d’accès au garage.
 
-##### **Une charmante petite cuisine, Dultha** : Petite table avec chaises et tabourets. Vue donnant sur le jardin, excellent poste d’observation des oiseaux ! La cuisine est équipée d’un frigo-congélateur, d’une cuisinière vitrocéramique-four, d’un évier double. Un lave-vaisselle 45 cm, environ 10 couverts.
+##### **Une charmante petite cuisine, _Dultha_ :** Petite table avec chaises et tabourets. Vue donnant sur le jardin, excellent poste d’observation des oiseaux ! La cuisine est équipée d’un frigo-congélateur, d’une cuisinière vitrocéramique-four, d’un évier double. Un lave-vaisselle 45 cm, environ 10 couverts.
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
-##### **Le lumineux salon – salle à manger, Yomenië,** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
+##### **Le lumineux salon – salle à manger, _Yomenië_ :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
 
-**Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
+**Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
 
-**La musique :** la récupération des CD dans toute la famille sur 3 générations implique une collection assez hétéroclite… de l’affectif, des surprises, des découvertes…
+**La musique :** la récupération des CD dans toute la famille sur 3 générations implique une collection assez hétéroclite… de l’affectif, des surprises, des découvertes…
 
-**Les livres** : Ici, se trouvent essentiellement les livres sur la Normandie (histoire, tourisme, faune, flore, géologie, légendes …) et le début de la collection de livres SF et Fantaisie.
+**Les livres :** ici, se trouvent essentiellement les livres sur la Normandie (histoire, tourisme, faune, flore, géologie, légendes …) et le début de la collection de livres SF et Fantaisie.
 
-**Les DVD** : il y a une **télé et un lecteur dvd/blu-ray.** Par contre, il n’y a plus la « live box », donc ***ni internet, ni programme télé***. Pour le moment, apportez vos films préférés car nous n’avons qu’une trentaine de DVD dans la future vidéothèque.
+**Les DVDs :** il y a une **télé et un lecteur dvd/blu-ray.** Par contre, il n’y a plus la « live box », donc ***ni internet, ni programme télé***. Pour le moment, apportez vos films préférés car nous n’avons qu’une trentaine de DVD dans la future vidéothèque.
 
-##### Présence d’un ensemble ***toilettes-douche***. La douche se trouve en face des toilettes.
+![](/uploads/gite_1.jpg) ![](/uploads/gite_2.jpg)
 
-##### ***La chambre du bas, Firith* :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
+![](/uploads/gite_3.jpg) ![](/uploads/gite_4.jpg)
+
+##### Présence d’un ensemble **toilettes-douche**. La douche se trouve en face des toilettes.
+
+##### **La chambre du bas, _Firith_ :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
+
+![](/uploads/gite_5.jpg) ![](/uploads/gite_6.jpg)
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
-##### **Chambre Yélin :** vue sur la mer : un lit double 1,20/1,30 (c’est un ancien lit en bois et assez haut). Possibilité de mettre en plus un ou deux matelas de 70/200 (disponibles dans cette pièces, mis l’un sur l’autre en guise de banquette).
+##### **Chambre _Yélin_ :** vue sur la mer : un lit double 1,20/1,30 (c’est un ancien lit en bois et assez haut). Possibilité de mettre en plus un ou deux matelas de 70/200 (disponibles dans cette pièces, mis l’un sur l’autre en guise de banquette).
 
-##### **Chambre Laër :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
+![](/uploads/gite_9.jpg) ![](/uploads/gite_10.jpg)
 
-##### **Les toilettes et salles d’eau, Luimë** : en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
+##### **Chambre _Laër_ :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
+
+![](/uploads/gite_7.jpg) ![](/uploads/gite_8.jpg)
+
+
+##### **Les toilettes et salles d’eau, _Luimë_ :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
 
 Pièce d’à coté : les toilettes indépendantes. Cette pièce dispose également d’un long placard-coffre dans lequel se trouve la planche à repasser. Le fer se situe sur l’étagère au dessus des toilettes.
 
-##### ***La bibliothèque, Parma*** : premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
+##### **La bibliothèque, _Parma_ :** premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
 
-##### ***Le coin enfant, Hina*** : **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
+##### **Le coin enfant, _Hina_ :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
 
+![](/uploads/gite_11.jpg) ![](/uploads/gite_12.jpg)
 
-
-
-
-
-
-
-
-
-
-![](file:///tmp/lu86859l63rpm.tmp/lu86859l63rtc_tmp_45b906bc54538bd0.jpg) ![](file:///tmp/lu86859l63rpm.tmp/lu86859l63rtc_tmp_e8fc77421825d994.jpg)
-
-
-
-
-
-
-
-
-
+![](/uploads/gite_13.jpg) ![](/uploads/gite_14.jpg)
 
 
 #### **Engouffrons nous ensuite dans le couloir menant aux pièces du sous sol :**
 
-#####  ***Le garage, Bröta*** :
+##### **Le garage, _Bröta_ :**
 
 **La grande pièce du fond est*** **privée*** **sur sa partie droite et le long du mur du fond.** Les 2 pièces qui vous pouvez utiliser sont :
 
@@ -126,7 +120,7 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 - Une ***machine à laver***. Pour le séchage : *fils à linge dehors et 2 « Tancarvilles »* à disposition. Sinon, une **laverie** vient de s’installer à Criel plage.
 - ***Les cendriers*** pour fumer dans le jardin. Ils sont sur des étagères bien visibles. Ne pas oublier de les vider et de les nettoyer…
 
-#### **Déambulons enfin dans le jardin verdoyant, *Tarwa* :**
+#### **Déambulons enfin dans le jardin verdoyant, _Tarwa_ :**
 
 ##### **Le jardin** encercle la maison. Il se répartit sur plusieurs étages. Il changera d’aspect au fil des années. Agrémenté de nouvelles espèces de plantes, arbustes, arbres, il deviendra encore plus intime, laissant cependant toujours un point du vue sur la mer.
 
@@ -137,3 +131,10 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 ##### **La cabane en bois** contient tout le matériel de pêche dont vous aurez besoin si vous avez envie de vous essayer à la pêche à pied ! Ainsi que des chaussures pour se baigner et quelques seaux et pelles pour les jeux de sable.
 
 **A noter : nous tenons tout particulièrement à offrir des refuges aux animaux et insectes du jardin, ainsi qu’à protéger les espèces de fleurs sauvages qui y poussent (telles que les orchidées).** Nous avons donc choisi de **ne pas tondre systématiquement la pelouse pour assurer une biodiversité**. Ne vous étonnez pas si le jardin a parfois les herbes un peu hautes, c’est normal ! Mais pas d’inquiétude, vous ne devrez pas tracer votre chemin à la machette pour atteindre la porte d’entrée ! Cette démarche a également été adoptée par la commune et lors de vos balades, il se peut que vous tombiez face à un panneau indiquant les zones refuge non fauchée.
+
+
+![](/uploads/gite_15.jpg) 
+
+![](/uploads/gite_16.jpg) ![](/uploads/gite_17.jpg) ![](/uploads/gite_18.jpg)
+
+![](/uploads/gite_19.jpg) ![](/uploads/gite_20.jpg) 

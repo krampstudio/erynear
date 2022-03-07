@@ -16,4 +16,4 @@ Toujours piqués au vif ? Alors, faites expressément vos **bagages** et venez 
 
 **Gîte indépendant de 110 m² entouré d’un écrin de verdure de 1000 m²**. Il peut accueillir jusqu’à **10** personnes. Depuis l’ouest du jardin et depuis l’une des chambres, vous pourrez admirer la Mer…
 
-Vous y serez **au calme** pour vous détendre, vous retrouver en famille, entre amis, au fil des saisons. … juste peut être un peu dérangé par les joyeux trilles des oiseaux émergeant avec l’aube ou par les ronflements des hérissons déambulant dans le jardin !
+Vous y serez **au calme** pour vous détendre, vous retrouver en famille, entre amis, au fil des saisons. … juste peut être un peu dérangé par les joyeux trilles des oiseaux émergeant avec l’aube ou par les ronflements des hérissons déambulant dans le jardin !

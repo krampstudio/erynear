@@ -81,7 +81,7 @@ Si vous vous aventurez au-delà de la mer, vous pourrez découvrir une **nature 
   * Diverses **animations et concerts** en période estivale et ponctuellement au cours de l’année telles que ***« Les Harengades »*** en novembre.
   * **Balade sur l’esplanade et jeux pour enfants.**
 
-##### ***Eu***
+##### **Eu**
 
 - *Culture* *et monuments* : plusieurs monuments méritent le détour dans la ville d’Eu. Cette cité a connu plusieurs évènements majeurs dans l’histoire. En 996, le [comté d'Eu](https://fr.wikipedia.org/wiki/Comt%C3%A9_d%27Eu) est créé par Richard, petit-fils de [Rollon](https://fr.wikipedia.org/wiki/Rollon), dans le but de protéger la [Normandie](https://fr.wikipedia.org/wiki/Normandie). En 1050 ou 1051, le duc de Normandie, Guillaume (futur [Guillaume le Conquérant](https://fr.wikipedia.org/wiki/Guillaume_le_Conqu%C3%A9rant)), aurait épousé [Mathilde](https://fr.wikipedia.org/wiki/Mathilde_de_Flandre), une cousine éloignée, fille du puissant comte de Flandres, [Baudouin](https://fr.wikipedia.org/wiki/Baudouin_V_de_Flandre), dans la [forteresse d'Eu](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Eu). A visiter **: la place Guillaume le Conquérant**.
 

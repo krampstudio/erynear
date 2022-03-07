@@ -175,12 +175,12 @@
     }
 
     main section :global(h2) {
-        font-size: 3rem;
+        font-size: .2.5rem;
         font-weight: bold;
         margin-bottom: 2rem;
     }
     main section :global(h3) {
-        font-size: 2.25rem;
+        font-size: 2rem;
         display: flex;
         margin-bottom: 1.5rem;
     }
@@ -197,10 +197,11 @@
     main section :global(h4) {
         font-size: 1.6rem;
         margin-bottom: 1.25rem;
-        font-weight: normal;
+        font-weight: bold;
     }
     main section :global(h4:before) {
         content: '🙠 ';
+        font-weight: bold;
     }
 
     main section :global(h5) {
@@ -212,7 +213,20 @@
     main section :global(h5:before) {
         content: '☸';
     }
-
+    main section :global(table) {
+        width:80%;
+        margin: auto;
+        border-collapse: collapse;
+        border: solid 1px black;
+    }
+    main section :global(table thead th) {
+        background-color: lightblue;
+    }
+    main section :global(table th),
+    main section :global(table td) {
+        border: solid 1px black;
+        padding: .5rem;
+    }
 
     main section.with-side {
         width: 60%;

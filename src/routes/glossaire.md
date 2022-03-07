@@ -7,24 +7,50 @@ label: Glossaire
 
 Vous avez pu remarquer que des mots mystérieux se sont glissés dans le texte… Il s’agit de mots issus du langage elfique. Cela annonce l’un des thèmes qui sera minutieusement et progressivement mis en place dans les pièces du gîte.
 
-**Ando** : haut
-**Arta** : hall, entrée 
-**Bröta** : caverne (ici, garage)
-**Ceridhir** : faire, passer
-**Dultha** : repas (ici = cuisine)
-**Eär** : la mer
-**Eryn** : bois et forêt
-**Firith** : l’automne
-**Hina** : enfant (ici, le coin aménagé pour les enfants)
-**Laër** : l’été (et printemps)
-**Luimë** : eau courante (ici, salle de bain, douche)
-**Mentië** : séjour, vacances
-**Otsola** : la semaine
-**Parma** : livre (ici, bibliothèque)
-**Talam** : base, sol, bas
-**Tarwa** : jardin
-**Tyel** : la fin
-**Vanya** : beau, bon
-**Yélin** : l’hiver
-**Yomenië** : rencontre entre plusieurs personnes venues d’endroits différents
+<div style="float:right">
+
+![](/uploads/glossaire_0.jpg) ![](/uploads/glossaire_1.jpg)
+
+![](/uploads/glossaire_2.jpg) ![](/uploads/glossaire_3.jpg)
+</div>
+
+**_Ando_ :** haut
+
+**_Arta_ :** hall, entrée 
+
+**_Bröta_ :** caverne (ici, garage)
+
+**_Ceridhir_ :** faire, passer
+
+**_Dultha_ :** repas (ici = cuisine)
+
+**_Eär_ :** la merA
+
+**_Eryn_ :** bois et forêt
+
+**_Firith_ :** l’automne
+
+**_Hina_ :** enfant (ici, le coin aménagé pour les enfants)
+
+**_Laër_ :** l’été (et printemps)
+
+**_Luimë_ :** eau courante (ici, salle de bain, douche)
+
+**_Mentië_ :** séjour, vacances
+
+**_Otsola_ :** la semaine
+
+**_Parma_ :** livre (ici, bibliothèque)
+
+**_Talam_ :** base, sol, bas
+
+**_Tarwa_ :** jardin
+
+**_Tyel_ :** la fin
+
+**_Vanya_ :** beau, bon
+
+**_Yélin_ :** l’hiver
+
+**_Yomenië_ :** rencontre entre plusieurs personnes venues d’endroits différents
 
