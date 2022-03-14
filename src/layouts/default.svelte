@@ -312,4 +312,4 @@
       {/if}
   </main>
 
-  <footer>gallerie</footer>
+  <footer>gallerie à venir...</footer>
