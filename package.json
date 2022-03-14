@@ -7,14 +7,14 @@
 		"preview": "svelte-kit preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-netlify": "^1.0.0-next.29",
-		"@sveltejs/kit": "next",
-		"mdsvex": "^0.9.8",
+		"@sveltejs/adapter-netlify": "^1.0.0-next.50",
+		"@sveltejs/kit": "^1.0.0-next.296",
+		"mdsvex": "^0.10.5",
 		"modern-css-reset": "^1.4.0",
-		"svelte": "^3.44.0"
+		"svelte": "^3.46.4"
 	},
 	"type": "module",
 	"dependencies": {
-        "leaflet": "^1.7.1"
+		"leaflet": "^1.7.1"
 	}
 }
