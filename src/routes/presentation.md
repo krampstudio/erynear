@@ -14,16 +14,16 @@ Nicole et Jacques ont amoureusement conçu et entretenu le jardin enserrant la d
 
 #### Portraits des Fondateurs :
 
-![](/uploads/presentation_1.jpg) ![](/uploads/presentation_2.jpg) ![](/uploads/presentation_3.jpg)
+![Les fondateurs](/uploads/presentation_1.jpg) ![Les fondateurs](/uploads/presentation_2.jpg) ![Les fondateurs](/uploads/presentation_3.jpg)
 
 #### Étapes de construction de la maison :
 
-![](/uploads/presentation_4.jpg) ![](/uploads/presentation_5.jpg) ![](/uploads/presentation_6.jpg)
+![Plan du gîte](/uploads/presentation_4.jpg) ![Terrain](/uploads/presentation_5.jpg) ![Construction](/uploads/presentation_6.jpg)
 
-![](/uploads/presentation_7.jpg) ![](/uploads/presentation_8.jpg) ![](/uploads/presentation_9.jpg)
+![La pose du toit](/uploads/presentation_7.jpg) ![Construction](/uploads/presentation_8.jpg) ![La maison finie](/uploads/presentation_9.jpg)
 
 ### Vos hôtes : Stef et Guillame
 
-![](/uploads/presentation_10.jpg)
+![Vos hôtes](/uploads/presentation_10.jpg)
 
 Ayant rejoint la « guilde des archéologues » il y a maintenant fort longtemps, nous avons pu voyager à travers le temps et découvrir le passé de multiples régions. Après avoir baroudé dans tout le pays à bord de notre mythique 309, nous avons progressivement opté pour la sédentarisation… La raison principale à cela : l’arrivée de nos deux filles ! Nous avons alors découvert un autre univers tout aussi riche et exaltant. Ensemble, nous partageons nos passions : la lecture, les jeux de société, la nature, l’écologie, le sport, les randonnées, les découvertes culturelles et … les moments festifs ! Tout ceci, nous essayons de le faire transparaître dans **l’univers d’Eryn Eär**. Nous espérons que vous vous sentirez bien dans le gîte et que vous vous créerez des souvenirs inoubliables !

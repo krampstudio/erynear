@@ -9,9 +9,9 @@ Vous avez pu remarquer que des mots mystérieux se sont glissés dans le texte�
 
 <div style="float:right">
 
-![](/uploads/glossaire_0.jpg) ![](/uploads/glossaire_1.jpg)
+![illustration](/uploads/glossaire_0.jpg) ![illustration](/uploads/glossaire_1.jpg)
 
-![](/uploads/glossaire_2.jpg) ![](/uploads/glossaire_3.jpg)
+![illustration](/uploads/glossaire_2.jpg) ![illustration](/uploads/glossaire_3.jpg)
 </div>
 
 **_Ando_ :** haut

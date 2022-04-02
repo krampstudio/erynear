@@ -1,7 +1,12 @@
+<script context="module">
+    export const metadata = {
+        title : 'Eryn Ëar - Le Gîte',
+        label : 'Le gîte'
+    };
+</script>
+
 <script>
-    import Map from '../Maps.svelte';
-    export let title = 'Eryn Ëar - Le Gîte';
-    export let label = 'Le gîte';
+    import Map from '../Map.svelte';
 </script>
 
 ## Le gîte
@@ -12,7 +17,14 @@
 **Tout d’abord, le nom de la maison… Eryn Eär…** Il s’agit de mettre en valeur l’alliance entre **la mer** : **Eär** et les bois, prairies et **forêts** : **Eryn**. Les particularités de ce paysage insolite seront présentées plus en détail dans le chapitre « *Bienvenue en Terre d’Eryn Eär* », illustré de photos.
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
-    <Map />
+    <Map  
+        coords={[50.02777589, 1.31961465]}
+        zoom={14}
+        markers={[{
+            coords: [50.02777589, 1.31961465],
+            label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
+        }]}
+    />
 </div>
 
 **Eryn Eär** est à l’origine une **maison familiale**. Elle a toujours été un lieu où la famille se retrouvait, un endroit de fêtes entre copains. Nous tenons tout particulièrement à garder cet **esprit de convivialité**. Il n’est pas envisageable de nous séparer de cette maison et en même temps, nous aimerions qu’elle reste vivante pendant que nous ne l’occupons pas. C’est pour cela que nous avons pensé en faire un gîte, un lieu de vacances au bord de la mer, non loin des forêts et chemins de randonnées, une **location que nous aimerions abordable pour tous**.
@@ -23,7 +35,7 @@ Vous pénétrez d’abord dans le jardin luxuriant et sinueux. Même si vos baga
 
 Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détent!
 
-![](/uploads/gite_0.jpg)
+![Le salon du gîte, au coin du feu](/uploads/gite_0.jpg)
 
 ### La position stratégique d’Eryn Eär
 
@@ -69,25 +81,25 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 **Les DVDs :** il y a une **télé et un lecteur dvd/blu-ray.** Par contre, il n’y a plus la « live box », donc ***ni internet, ni programme télé***. Pour le moment, apportez vos films préférés car nous n’avons qu’une trentaine de DVD dans la future vidéothèque.
 
-![](/uploads/gite_1.jpg) ![](/uploads/gite_2.jpg)
+![La facade du gîte](/uploads/gite_1.jpg) ![L'entrée du gîte](/uploads/gite_2.jpg)
 
-![](/uploads/gite_3.jpg) ![](/uploads/gite_4.jpg)
+![Le salon salle à manger du gîte](/uploads/gite_3.jpg) ![La cuisine du gîte](/uploads/gite_4.jpg)
 
 ##### Présence d’un ensemble **toilettes-douche**. La douche se trouve en face des toilettes.
 
 ##### **La chambre du bas, _Firith_ :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
 
-![](/uploads/gite_5.jpg) ![](/uploads/gite_6.jpg)
+![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith](/uploads/gite_6.jpg)
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
 ##### **Chambre _Yélin_ :** vue sur la mer : un lit double 1,20/1,30 (c’est un ancien lit en bois et assez haut). Possibilité de mettre en plus un ou deux matelas de 70/200 (disponibles dans cette pièces, mis l’un sur l’autre en guise de banquette).
 
-![](/uploads/gite_9.jpg) ![](/uploads/gite_10.jpg)
+![La chambre Yélin](/uploads/gite_9.jpg) ![La chambre Yélin](/uploads/gite_10.jpg)
 
 ##### **Chambre _Laër_ :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
 
-![](/uploads/gite_7.jpg) ![](/uploads/gite_8.jpg)
+![La chambre Laër](/uploads/gite_7.jpg) ![La chambre Laër](/uploads/gite_8.jpg)
 
 
 ##### **Les toilettes et salles d’eau, _Luimë_ :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
@@ -98,9 +110,9 @@ Pièce d’à coté : les toilettes indépendantes. Cette pièce dispose égale
 
 ##### **Le coin enfant, _Hina_ :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
 
-![](/uploads/gite_11.jpg) ![](/uploads/gite_12.jpg)
+![La salle de bain](/uploads/gite_11.jpg) ![Le coin enfant, Hina](/uploads/gite_12.jpg)
 
-![](/uploads/gite_13.jpg) ![](/uploads/gite_14.jpg)
+![La bibliothèque](/uploads/gite_13.jpg) ![Le palier](/uploads/gite_14.jpg)
 
 
 #### **Engouffrons nous ensuite dans le couloir menant aux pièces du sous sol :**
@@ -133,8 +145,8 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 **A noter : nous tenons tout particulièrement à offrir des refuges aux animaux et insectes du jardin, ainsi qu’à protéger les espèces de fleurs sauvages qui y poussent (telles que les orchidées).** Nous avons donc choisi de **ne pas tondre systématiquement la pelouse pour assurer une biodiversité**. Ne vous étonnez pas si le jardin a parfois les herbes un peu hautes, c’est normal ! Mais pas d’inquiétude, vous ne devrez pas tracer votre chemin à la machette pour atteindre la porte d’entrée ! Cette démarche a également été adoptée par la commune et lors de vos balades, il se peut que vous tombiez face à un panneau indiquant les zones refuge non fauchée.
 
 
-![](/uploads/gite_15.jpg) 
+![Le jardin](/uploads/gite_15.jpg) 
 
-![](/uploads/gite_16.jpg) ![](/uploads/gite_17.jpg) ![](/uploads/gite_18.jpg)
+![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin](/uploads/gite_18.jpg)
 
-![](/uploads/gite_19.jpg) ![](/uploads/gite_20.jpg) 
+![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite_20.jpg) 

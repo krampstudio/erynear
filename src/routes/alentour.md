@@ -4,13 +4,13 @@ label: Terre d'Eryn Ëar
 ---
 ## Bienvenue en terre d'Eryn Ëar
 
-Ce chapitre est entièrement consacré aux **excellentes raisons de venir à** **Criel-sur-Mer**… Deux d’entre elles méritent une attention particulière. Il s’agit **des paysages et des activités**.
+Ce chapitre est entièrement consacré aux **excellentes raisons de venir à Criel-sur-Mer**… Deux d’entre elles méritent une attention particulière. Il s’agit **des paysages et des activités**.
 
 Commençons par poser le décor. Fermez les yeux et laissez vous emporter par votre imagination … :
 
 « **Une mer** imprévisible, frissonnante d’une myriade de reflets scintillants**. Un air iodé** et vivifiant qui fait vibrer tout votre corps. **Une luminosité** incomparable, limpide, éclatante qui transforme le paysage en l’espace d’une fraction de seconde**. Des forêts mystérieuses, des prairies aux fleurs multiples, des collines verdoyantes et une espiègle vallée** s’allient subtilement au paysage marin ».
 
-D’où le nom duGîte. Pour celles et ceux qui ne l’auraient pas déjà lu **: Eryn** signifie** *Bois et Forêt* et Eär** signifie** *Mer*.**
+D’où le nom du Gîte. Pour celles et ceux qui ne l’auraient pas déjà lu **: Eryn** signifie** *Bois et Forêt* et Eär** signifie** *Mer*.**
 
 Des paysages insolites, assurément ! **Mais comment s’occuper** ? Me croirez-vous quand je vous dis qu’il est possible de **tout faire en Normandie** (mis à part peut être une rando en montagne… cela va de soi) ?
 
@@ -21,6 +21,7 @@ Commencez par prendre une carte afin de repérer **Criel sur Mer, ses alentours,
 Une documentation complète avec cartes, circuits de randonnées pédestres et vélos, documents culturels etc. … sont à votre disposition dans le gîte.
 
 *► **Carte pirate avec les lieux et les Pays : Bray Caux … seine maritime Eure calvados, les villes, villages et parcs cités.***
+
 
 ### **Villages et villes qui valent le détour aux environs d’Eryn Eär par départements :**
 
