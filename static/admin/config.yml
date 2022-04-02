@@ -20,6 +20,7 @@ collections:
         widget: markdown
 media_folder: "static/uploads"
 public_folder: "/uploads"
+locale: 'fr'
 
 # site_url: https://your-site.com
 # display_url: https://your-site.com

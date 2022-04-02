@@ -1,10 +1,7 @@
-<script context="module">
-    export const metadata = {
-        title : 'Eryn Ëar - Le Gîte',
-        label : 'Le gîte'
-    };
-</script>
-
+---
+title: Eryn Ëar - Le Gîte
+label: Le Gîte
+---
 <script>
     import Map from '../Map.svelte';
 </script>
