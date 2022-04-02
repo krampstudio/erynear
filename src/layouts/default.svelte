@@ -227,6 +227,9 @@
     main section :global(h5:before) {
         content: '☸';
     }
+    main section :global(a) {
+        color: #000;
+    }
     main section :global(table) {
         width:80%;
         margin: auto;
