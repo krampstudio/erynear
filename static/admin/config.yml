@@ -27,6 +27,11 @@ collections:
         label: "Titre"
       - name: folderName
         label: "dossier"
+      - label: "Images"
+        name: content
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
     media_folder: 'static/uploads/galerie/{{fields.folderName}}'
     public_folder: '/uploads/uploads/galerie/{{fields.folderName}}'
 media_folder: "static/uploads"
