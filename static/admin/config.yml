@@ -32,8 +32,8 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
-    media_folder: 'static/uploads/galerie/{{fields.folderName}}'
-    public_folder: '/uploads/uploads/galerie/{{fields.folderName}}'
+    media_folder: '/static/uploads/galerie/{{fields.folderName}}'
+    public_folder: '/uploads/galerie/{{fields.folderName}}'
 media_folder: "static/uploads"
 public_folder: "/uploads"
 locale: 'fr'
