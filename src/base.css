@@ -1,3 +1,7 @@
+/* cms admin popup*/
+iframe {
+    z-index: 199;
+}
 
 @font-face {
     font-family: 'Traditian';

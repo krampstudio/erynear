@@ -3,7 +3,7 @@ backend:
   branch: main
 collections:
   - name: routes
-    label: routes
+    label: Pages
     folder: src/routes
     create: true
     fields:
@@ -18,6 +18,17 @@ collections:
         field: {label: Image, name: image, widget: image}
       - name: body
         widget: markdown
+  - name: galeries
+    label: Galerie
+    folder: src/galeries
+    create: true
+    fields:
+      - name: title
+        label: "Titre"
+      - name: folderName
+        label: "dossier"
+    media_folder: 'static/uploads/galerie/{{fields.folderName}}'
+    public_folder: '/uploads/uploads/galerie/{{fields.folderName}}'
 media_folder: "static/uploads"
 public_folder: "/uploads"
 locale: 'fr'
