@@ -1,4 +1,7 @@
+User-agent: Googlebot
+Disallow: /admin/
+
 User-agent: *
 Allow: /
 
-Sitemap: https://www.erynear.fr/sitemap.xml
+Sitemap: https://erynear.fr/sitemap.xml
