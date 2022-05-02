@@ -36,6 +36,9 @@
    width: 500px;
    height: 500px;
  }
+ .map :global(.leaflet img) {
+    margin: inherit;
+ }
 </style>
 
 <div class="map" bind:this={mapElement}></div>
