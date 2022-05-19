@@ -14,7 +14,6 @@ Mais quand apparaît-elle concrètement ? Il faut, pour cela, remonter au IXe si
 
 **En 911, le roi carolingien Charles le Simple** met fin à ces invasions par le **traité de Saint-Clair-sur-Epte.** Il concède alors à **Rollon** un territoire s’apparentant à peu près à l’actuelle Haute-Normandie. En échange, le chef viking se convertit au christianisme et garantit la paix. Thor et Odin retournent alors chez eux la corne basse …
 
-\
 La Normandie, "***pays des hommes du Nord***", est désormais créée. Dès 933, elle s’étend déjà aux limites qu’on lui connaît aujourd’hui.
 
 La nature et les paysages Normands 
