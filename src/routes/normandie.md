@@ -2,6 +2,10 @@
 title: Eryn Ëar - La Normandie
 label: Normandie
 ---
+<script>
+    import Map from '../Map.svelte';
+</script>
+
 # La Normandie
 
 **La Normandie** est une région historique et géographique située au nord-ouest de la France. Ses cinq départements sont **La Manche, le Calvados, l’Orne, l’Eure et la Seine Maritime.** La mer qui la borde se nomme **La Manche**.
