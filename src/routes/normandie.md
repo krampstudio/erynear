@@ -10,6 +10,14 @@ label: Normandie
 
 **La Normandie** est une région historique et géographique située au nord-ouest de la France. Ses cinq départements sont **La Manche, le Calvados, l’Orne, l’Eure et la Seine Maritime.** La mer qui la borde se nomme **La Manche**.
 
+<div style="float: left; margin: 0 .75rem .75rem 0;">
+    <Map  
+        coords={[50.02777589, 1.31961465]}
+        zoom={12}
+        markers={[]}
+    />
+</div>
+
 #### **Les Origines … historiques**
 
 La Normandie connait une très riche histoire depuis le Paléolithique à nos jours. Trois points cependant marquent nos esprits quand on évoque cette région : **l’héritage des Vikings, les relations autant houleuses qu’amicales avec l’Angleterre et le débarquement du 6 juin 1944.** 
