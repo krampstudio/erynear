@@ -49,7 +49,7 @@ Plusieurs photos illustrent ce chapitre dans les galeries intitulées « *Mer, 
 * La plage entière pour faire du cerf-volant, espace pour Beach volley.
 * Planche à voile, paddle, ski … nautique.
 * Pêche à la ligne.
-* Kayak : le club de Kayak **« Rand’Eau Kayak »** propose des sorties en mer**.** Pour tous renseignements, contacter le club : *<https://www.randeaukayak.com/>*. Animations diverses en période estivale comme la gymnastique et lire à la plage.
+* Kayak : le club de Kayak **« Rand’Eau Kayak »** propose des sorties en mer**.** Pour tous renseignements, contacter [le club](https://www.randeaukayak.com). Animations diverses en période estivale comme la gymnastique et lire à la plage.
 * Gym à la plage et Lire à la plage en saison estivale, approximativement entre juin et septembre (renseignements à la mairie).
 
 A noter : Baignades surveillées en haute saison
