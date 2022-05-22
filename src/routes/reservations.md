@@ -67,3 +67,8 @@ Animaux non admis pour le moment
 ```
 
 </table>
+
+A noter : Il faudra ajouter également la **taxe de séjour** relative à la commune de Criel sur Mer.
+
+ 
+Son montant s’élève à **0,50 euros par personne et par nuitée**. A titre d’exemple, un séjour de 7 nuits avec 2 adultes et 2 enfants reviendrait à 7 euros supplémentaires, sachant que seuls les adultes comptent.
