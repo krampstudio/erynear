@@ -12,9 +12,9 @@ label: Normandie
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={[50.02777589, 1.31961465]}
-        zoom={9}
-        markers={[]}
+        coords={\[50.02777589, 1.31961465]}
+        zoom={8}
+        markers={\[]}
     />
 </div>
 
@@ -51,5 +51,3 @@ Prenez également le temps d’entrevoir la ***campagne normande*** avec **le Pa
 ![côte d'Albâtre Criel sur Mer](/uploads/normandie_1.jpg)
 
 ![fleuve Yères Criel sur mer et prairies](/uploads/normandie_2.jpg)
-
-Test
