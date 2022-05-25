@@ -12,9 +12,9 @@ label: Normandie
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\[50.02777589, 1.31961465]}
+        coords={[50.02777589, 1.31961465]}
         zoom={8}
-        markers={\[]}
+        markers={[]}
     />
 </div>
 
