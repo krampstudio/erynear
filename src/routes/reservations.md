@@ -2,6 +2,9 @@
 label: Réservation
 title: Eryn Ëar - Tarifs et réservations 
 ---
+<script>
+    import Calendar from '../Calendar.svelte';
+</script>
 
 ## Tarifs et réservations
 
@@ -61,4 +64,10 @@ Animaux non admis pour le moment
         </tr>
     </tfoot>
 </table>
+
+
+## Disponibilités 
+
+<Calendar />
+
 

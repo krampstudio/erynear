@@ -15,6 +15,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@easepick/bundle": "^1.1.7",
 		"leaflet": "^1.8.0"
 	}
 }
