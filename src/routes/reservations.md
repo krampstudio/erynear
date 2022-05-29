@@ -12,7 +12,7 @@ Il a été calculé afin que nous puissions garder la maison et l’entretenir, 
 
 **La réservation ne sera effective qu’au moment de l’encaissement du chèque de l’acompte et/ou du paiement.**
 
-Deux formules vous sont proposées pour 2022-2023.
+Deux formules vous sont proposées pour 2022-2023-2024
 
 <table>
     <thead>
@@ -65,9 +65,5 @@ Animaux non admis pour le moment
     </tr>
 </tfoot>
 ```
-
-
-
-
 
 </table>
