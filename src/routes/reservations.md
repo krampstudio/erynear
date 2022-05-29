@@ -66,4 +66,8 @@ Animaux non admis pour le moment
 </tfoot>
 ```
 
+
+
+
+
 </table>
