@@ -12,6 +12,9 @@ Il a été calculé afin que nous puissions garder la maison et l’entretenir, 
 
 **La réservation ne sera effective qu’au moment de l’encaissement du chèque de l’acompte et/ou du paiement.**
 
+A noter : Il faudra ajouter également la taxe de séjour relative à la commune de Criel sur Mer. 
+Son montant s’élève à 0,50 euros par personne et par nuitée. A titre d’exemple, un séjour de 7 nuits avec 2 adultes et 2 enfants reviendrait à 7 euros supplémentaires, sachant que seuls les adultes comptent.
+
 Deux formules vous sont proposées pour 2022-2023-2024
 
 <table>
