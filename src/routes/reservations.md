@@ -36,10 +36,8 @@ Haute saison de début juin à fin septembre : **490€**
 
 Basse saison mi mars-avril-mai et octobre : **380€**
 
-```
         </td>
         <td>
-```
 
 ***Tyel Otsola* (week-end) selon disponibilités**
 
@@ -50,23 +48,21 @@ Basse saison mi mars-avril-mai et octobre : **380€**
 
 5 à 10 personnes : **250€**
 
-```
         </td>
     </tr>
 </tbody>
 <tfoot>
     <tr>
         <th colspan="2">
-```
+
 
 Pensez à apporter vos draps et linge de maison (serviettes de toilette, chiffons).
 
 Animaux non admis pour le moment
 
-```
+
         </th>
     </tr>
 </tfoot>
-```
 
 </table>
