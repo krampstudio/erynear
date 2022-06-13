@@ -16,11 +16,4 @@
         padding: 0;
     }
 </style>
-<ul>
-    <li><img src="/static/uploads/galerie/gite/gite_1.jpg" alt="Gîte"/></li>
-    <li><img src="/static/uploads/galerie/gite/gite_2.jpg" alt="Gîte"/></li>
-    <li><img src="/static/uploads/galerie/gite/gite_1.jpg" alt="Gîte"/></li>
-    <li><img src="/static/uploads/galerie/gite/gite_2.jpg" alt="Gîte"/></li>
-    <li><img src="/static/uploads/galerie/gite/gite_1.jpg" alt="Gîte"/></li>
-    <li><img src="/static/uploads/galerie/gite/gite_2.jpg" alt="Gîte"/></li>
-</ul>
+<p>gallerie à venir...</p>

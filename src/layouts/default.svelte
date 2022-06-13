@@ -231,21 +231,6 @@
     main section :global(a) {
         color: #000;
     }
-    main section :global(table) {
-        width:80%;
-        margin: auto;
-        border-collapse: collapse;
-        border: solid 1px black;
-    }
-    main section :global(table thead th) {
-        background-color: lightblue;
-    }
-    main section :global(table th),
-    main section :global(table td) {
-        border: solid 1px black;
-        padding: .5rem;
-    }
-
     main section.with-side {
         width: 60%;
     }

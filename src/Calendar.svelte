@@ -1,51 +1,29 @@
 <script>
     import { onMount } from 'svelte';
-    import { easepick } from '@easepick/bundle/dist/index.umd.js';
+    import flatpickr from "flatpickr";
+    import 'flatpickr/dist/flatpickr.css';
 
     let calendarElement;
 
-    console.log(easepick);
-
     export let booked = [
-        '2022-05-14', '2022-05-22',
-        '2022-05-24', '2022-05-29',
-        '2022-06-18', '2022-07-02',
-        '2022-07-09', '2022-07-16',
-        '2022-07-17', '2022-07-24',
-        '2022-07-30', '2022-08-07',
-        '2022-08-13', '2022-08-28'
+        { from: '2022-05-14', to: '2022-05-22'},
+        { from: '2022-05-24', to: '2022-05-29'},
+        { from: '2022-06-18', to: '2022-07-02'},
+        { from: '2022-07-09', to: '2022-07-16'},
+        { from: '2022-07-17', to: '2022-07-24'},
+        { from: '2022-07-30', to: '2022-08-07'},
+        { from: '2022-08-13', to: '2022-08-28'}
     ];
-    /*const bookedDates = booked.map(d => {*/
-        /*if (d instanceof Array) {*/
-            /*const start = easepick.DateTime(d[0], 'YYYY-MM-DD');*/
-            /*const end = easepick.DateTime(d[1], 'YYYY-MM-DD');*/
-
-            /*return [start, end];*/
-        /*}*/
-
-        /*return easepick.DateTime(d, 'YYYY-MM-DD');*/
-    /*});*/
+    export let maxDate = '2022-12-15';
 
     onMount(() => {
-        const picker = new easepick.create({
-            element: calendarElement,
-            css: [
-                "https://cdn.jsdelivr.net/npm/@easepick/bundle@1.1.6/dist/index.css"
-            ],
-            zIndex: 10,
-            lang: "fr-FR",
-            /*format: "DD MMM YYYY",*/
-            grid: 2,
-            calendars: 2,
-            inline: true,
-            plugins: ['LockPlugin'],
-            LockPlugin: {
-                filter(date) {
-                    return !booked.includes(date.format('YYYY-MM-DD'));
-                },
-            }
-        })
-        console.log(picker);
+        const calendar =  flatpickr(calendarElement, { inline: true, disable: booked, minDate: new Date(), maxDate, mode: 'range'});
     });
 </script>
+<style>
+    :global(.flatpickr-day){
+        color: black;
+        background-color: #bbdba9;
+    }
+</style>
 <div bind:this={calendarElement}></div>

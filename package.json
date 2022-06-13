@@ -15,7 +15,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@easepick/bundle": "^1.1.7",
+		"flatpickr": "^4.6.13",
 		"leaflet": "^1.8.0"
 	}
 }
