@@ -24,6 +24,8 @@ Son montant s’élève à 0,50 euros par personne et par nuitée. A titre d’e
 
 ## Disponibilités 
 
+Les dates disponibles pour cette saison sont affichées en vert ci-dessus. Si vous souhaitez réserver le gîte veuillez nous [nous contacter](/contact).
+
 <Calendar />
 
 

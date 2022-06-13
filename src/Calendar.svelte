@@ -17,10 +17,13 @@
     export let maxDate = '2022-12-15';
 
     onMount(() => {
-        const calendar =  flatpickr(calendarElement, { inline: true, disable: booked, minDate: new Date(), maxDate, mode: 'range'});
+        const calendar =  flatpickr(calendarElement, { inline: true, disable: booked, minDate: new Date(), maxDate, showMonths: 2, position: 'auto center'});
     });
 </script>
 <style>
+    :global(.flatpickr-calendar) {
+        margin: auto;
+    }
     :global(.flatpickr-day){
         color: black;
         background-color: #bbdba9;
