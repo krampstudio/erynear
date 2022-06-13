@@ -1,6 +1,7 @@
 <script>
     import { onMount } from 'svelte';
     import flatpickr from "flatpickr";
+    import French from 'flatpickr/dist/l10n/fr.js';
     import 'flatpickr/dist/flatpickr.css';
 
     let calendarElement;
@@ -17,7 +18,15 @@
     export let maxDate = '2022-12-15';
 
     onMount(() => {
-        const calendar =  flatpickr(calendarElement, { inline: true, disable: booked, minDate: new Date(), maxDate, showMonths: 2, position: 'auto center'});
+        const calendar =  flatpickr(calendarElement, {
+            inline: true,
+            locale: French.fr,
+            disable: booked,
+            minDate: new Date(),
+            maxDate,
+            showMonths: 2,
+            position: 'auto center'
+        });
     });
 </script>
 <style>
