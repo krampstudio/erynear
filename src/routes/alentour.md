@@ -28,7 +28,11 @@ Plusieurs photos illustrent ce chapitre dans les galeries intitulées « *Mer, 
 
 ##### ***Criel-sur-Mer et Mesnil Val* :** cette petite ville, jumelée à Mesnil-Val,est une commune française située dans le département de la Seine-Maritime en Normandie. Criel-sur-Mer s’est développée de part et d'autre de la vallée de l’Yères jusqu’à son embouchure. Le nom de la localité est attesté sous les formes *Criolii*, *Criolio*, *Criolium* vers 1059. Ses falaises de craies sont, à ce jour, les plus hautes d’Europe. Elles culminent à environ 109 mètres d’altitude.
 
+![côte d'Albâtre, falaises de Criel](/uploads/bienvenue_0.jpg)
+
 * *Culture* : **Le manoir de Briançon** (XVI ème-XVII ème siècle), **Le château de Chantereine** (XV ème siècle), **l’église Saint Aubin** avec son clocher en « H » et son fameux vitrail au Dragon (XIV-XVI ème siècle), les **maisons-manoirs** balnéaires de Mesnil Val (XIX ème siècle) conçues par l’architecte **Léon Mériot…**
+
+![Criel ville, manoir de Briançon](/uploads/bienvenue_3.jpg)
 
 [Office de Tourisme Criel-sur-Mer](https://www.seine-maritime-tourisme.com/diffusio/fr/je-prepare/offices-de-tourisme/criel-sur-mer/office-de-tourisme-destination-le-treport-mers-bureau-d-accueil-touristique-de-criel-sur-mer_TFOORGNOR076FS00513.php)
 
