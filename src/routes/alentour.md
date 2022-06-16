@@ -117,7 +117,7 @@ Le futur roi [Louis-Philippe Ier](https://fr.wikipedia.org/wiki/Louis-Philippe
 
 **Plage** d’Etretat avec baignades et sports nautiques et les j**ardins** d’Etretat.
 
-###### ***Arques-la-bataille*** :
+##### ***Arques-la-bataille*** :
 
 * *Culture* : le **château** d'Arques-la-Bataille est un** [château fort](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_fort)** en ruine, construit sur un promontoire rocheux dominant la ville, située près de [Dieppe](https://fr.wikipedia.org/wiki/Dieppe_(Seine-Maritime)). Édifiée dans la première moitié du [xiie siècle](https://fr.wikipedia.org/wiki/XIIe_si%C3%A8cle) sur l'emplacement d'une ancienne [motte castrale](https://fr.wikipedia.org/wiki/Motte_castrale), remaniée jusqu'au [xvie siècle](https://fr.wikipedia.org/wiki/XVIe_si%C3%A8cle), la forteresse subit de multiples sièges. Le château fait l’objet d’un classement au titre des [monuments historiques](https://fr.wikipedia.org/wiki/Monument_historique_(France)) depuis [1875](https://fr.wikipedia.org/wiki/1875_en_France).
 * *Sport et loisirs :* **randonnées pédestres-vélo** : Arques la Bataille est un petit village très charmant où il est bon d’y faire une promenade et une **excursion au château**. Il est plus qu’agréable de s’y installer pour y pique niquer. La vue est imprenable ! *<https://www.dieppetourisme.com/bouger/visiter/chateaux-et-monuments/chateau-darques/>*
