@@ -8,16 +8,15 @@ label: Le Gîte
 
 ## Le gîte
 
-
 ### La démarche et la présentation du gîte
 
 **Tout d’abord, le nom de la maison… Eryn Eär…** Il s’agit de mettre en valeur l’alliance entre **la mer** : **Eär** et les bois, prairies et **forêts** : **Eryn**. Les particularités de ce paysage insolite seront présentées plus en détail dans le chapitre « *Bienvenue en Terre d’Eryn Eär* », illustré de photos.
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={[50.02777589, 1.31961465]}
+        coords={\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={[{
+        markers={\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -60,15 +59,17 @@ Pour se faire **une première idée du gîte**, voici une **description des piè
 
 #### **Mais, laissons là ces oiseaux et franchissons ensemble la porte d'entrée pour commencer la visite du rez-de-chaussée :**
 
-Plusieurs autres photos des pièces sont visibles dans la galerie « _chambres et gite_ ».
+Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres et gite* ».
 
-##### **Le hall d’entrée, _Talam Ando_ :** Etagère-porte-manteaux, coffre et ranges chaussures. Panneau d’affichage « bons plans ». Tableaux d’instructions et porte d’accès au garage.
+##### **Le hall d’entrée, *Talam Ando* :** Etagère-porte-manteaux, coffre et ranges chaussures. Panneau d’affichage « bons plans ». Tableaux d’instructions et porte d’accès au garage.
 
-##### **Une charmante petite cuisine, _Dultha_ :** Petite table avec chaises et tabourets. Vue donnant sur le jardin, excellent poste d’observation des oiseaux ! La cuisine est équipée d’un frigo-congélateur, d’une cuisinière vitrocéramique-four, d’un évier double. Un lave-vaisselle 45 cm, environ 10 couverts.
+![hall d'entrée talam ando](/uploads/gite_2.jpg)
+
+##### **Une charmante petite cuisine, *Dultha* :** Petite table avec chaises et tabourets. Vue donnant sur le jardin, excellent poste d’observation des oiseaux ! La cuisine est équipée d’un frigo-congélateur, d’une cuisinière vitrocéramique-four, d’un évier double. Un lave-vaisselle 45 cm, environ 10 couverts.
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
-##### **Le lumineux salon – salle à manger, _Yomenië_ :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
+##### **Le lumineux salon – salle à manger, *Yomenië* :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
 
@@ -84,37 +85,35 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 ##### Présence d’un ensemble **toilettes-douche**. La douche se trouve en face des toilettes.
 
-##### **La chambre du bas, _Firith_ :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
+##### **La chambre du bas, *Firith* :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
 
 ![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith](/uploads/gite_6.jpg)
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
-##### **Chambre _Yélin_ :** vue sur la mer : un lit double 1,20/1,30 (c’est un ancien lit en bois et assez haut). Possibilité de mettre en plus un ou deux matelas de 70/200 (disponibles dans cette pièces, mis l’un sur l’autre en guise de banquette).
+##### **Chambre *Yélin* :** vue sur la mer : un lit double 1,20/1,30 (c’est un ancien lit en bois et assez haut). Possibilité de mettre en plus un ou deux matelas de 70/200 (disponibles dans cette pièces, mis l’un sur l’autre en guise de banquette).
 
 ![La chambre Yélin](/uploads/gite_9.jpg) ![La chambre Yélin](/uploads/gite_10.jpg)
 
-##### **Chambre _Laër_ :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
+##### **Chambre *Laër* :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
 
 ![La chambre Laër](/uploads/gite_7.jpg) ![La chambre Laër](/uploads/gite_8.jpg)
 
-
-##### **Les toilettes et salles d’eau, _Luimë_ :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
+##### **Les toilettes et salles d’eau, *Luimë* :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
 
 Pièce d’à coté : les toilettes indépendantes. Cette pièce dispose également d’un long placard-coffre dans lequel se trouve la planche à repasser. Le fer se situe sur l’étagère au dessus des toilettes.
 
-##### **La bibliothèque, _Parma_ :** premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
+##### **La bibliothèque, *Parma* :** premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
 
-##### **Le coin enfant, _Hina_ :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
+##### **Le coin enfant, *Hina* :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
 
 ![La salle de bain](/uploads/gite_11.jpg) ![Le coin enfant, Hina](/uploads/gite_12.jpg)
 
 ![La bibliothèque](/uploads/gite_13.jpg) ![Le palier](/uploads/gite_14.jpg)
 
-
 #### **Engouffrons nous ensuite dans le couloir menant aux pièces du sous sol :**
 
-##### **Le garage, _Bröta_ :**
+##### **Le garage, *Bröta* :**
 
 **La grande pièce du fond est*** **privée*** **sur sa partie droite et le long du mur du fond.** Les 2 pièces qui vous pouvez utiliser sont :
 
@@ -122,14 +121,14 @@ La **pièce située directement en bas des escaliers de garage**. Elle dispose d
 
 La **pièce qui donne dehors (avec la porte coulissante) :**
 
-- Coin où le ***barbecue Weber*** est rangé, charbon et matériel pour le barbecue.
-- Endroit où est entreposé la ***table de jardin et les chaises*** (en paille, plastique ou formica : pour l’instant, on n’a pas encore un mobilier de jardin digne de ce nom, mais du moment qu’on peut s’asseoir …), parasol.
-- Un ***billard américain*.** 
-- Un coin sport et loisir (il sera enrichi au fil du temps) avec Möllky, raquettes de tennis …
-- Une ***machine à laver***. Pour le séchage : *fils à linge dehors et 2 « Tancarvilles »* à disposition. Sinon, une **laverie** vient de s’installer à Criel plage.
-- ***Les cendriers*** pour fumer dans le jardin. Ils sont sur des étagères bien visibles. Ne pas oublier de les vider et de les nettoyer…
+* Coin où le ***barbecue Weber*** est rangé, charbon et matériel pour le barbecue.
+* Endroit où est entreposé la ***table de jardin et les chaises*** (en paille, plastique ou formica : pour l’instant, on n’a pas encore un mobilier de jardin digne de ce nom, mais du moment qu’on peut s’asseoir …), parasol.
+* Un ***billard américain*.** 
+* Un coin sport et loisir (il sera enrichi au fil du temps) avec Möllky, raquettes de tennis …
+* Une ***machine à laver***. Pour le séchage : *fils à linge dehors et 2 « Tancarvilles »* à disposition. Sinon, une **laverie** vient de s’installer à Criel plage.
+* ***Les cendriers*** pour fumer dans le jardin. Ils sont sur des étagères bien visibles. Ne pas oublier de les vider et de les nettoyer…
 
-#### **Déambulons enfin dans le jardin verdoyant, _Tarwa_ :**
+#### **Déambulons enfin dans le jardin verdoyant, *Tarwa* :**
 
 ##### **Le jardin** encercle la maison. Il se répartit sur plusieurs étages. Il changera d’aspect au fil des années. Agrémenté de nouvelles espèces de plantes, arbustes, arbres, il deviendra encore plus intime, laissant cependant toujours un point du vue sur la mer.
 
@@ -141,9 +140,8 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 
 **A noter : nous tenons tout particulièrement à offrir des refuges aux animaux et insectes du jardin, ainsi qu’à protéger les espèces de fleurs sauvages qui y poussent (telles que les orchidées).** Nous avons donc choisi de **ne pas tondre systématiquement la pelouse pour assurer une biodiversité**. Ne vous étonnez pas si le jardin a parfois les herbes un peu hautes, c’est normal ! Mais pas d’inquiétude, vous ne devrez pas tracer votre chemin à la machette pour atteindre la porte d’entrée ! Cette démarche a également été adoptée par la commune et lors de vos balades, il se peut que vous tombiez face à un panneau indiquant les zones refuge non fauchée.
 
-
-![Le jardin](/uploads/gite_15.jpg) 
+![Le jardin](/uploads/gite_15.jpg)
 
 ![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin](/uploads/gite_18.jpg)
 
-![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite_20.jpg) 
+![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite_20.jpg)
