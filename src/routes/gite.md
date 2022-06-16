@@ -69,6 +69,8 @@ Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres 
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
+![cuisine Dultha](/uploads/gite_30.jpg)
+
 ##### **Le lumineux salon – salle à manger, *Yomenië* :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
