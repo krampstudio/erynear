@@ -166,7 +166,7 @@ Vous pourrez également vous aventurer jusqu’à **Saint Wandrille** et y visit
 
 * *Culture et loisirs* : **Château Gaillard** est une **forteresse militaire médiévale** du XIIᵉ siècle en ruine qui se situe au cœur du Vexin normand, à 100 km de Paris dans la commune des Andelys. Il est bâti sur une falaise de calcaire dominant un grand méandre de la Seine. Sa construction est liée à la volonté du [roi d'Angleterre](https://fr.wikipedia.org/wiki/Liste_des_monarques_d%27Angleterre) et [duc de Normandie](https://fr.wikipedia.org/wiki/Liste_des_ducs_de_Normandie) : [Richard Cœur de Lion](https://fr.wikipedia.org/wiki/Richard_C%C5%93ur_de_Lion). Il a été son concepteur. Le château fait l’objet d’un classement au titre des [monuments historiques](https://fr.wikipedia.org/wiki/Monument_historique_(France)) par la [liste de 1862](https://fr.wikipedia.org/wiki/Liste_des_monuments_historiques_prot%C3%A9g%C3%A9s_en_1862). **Visites, randonnées, pique niques** au pied des ruines en observant un magnifique coucher de soleil qui embrase vieilles pierres et eaux du fleuve en contrebas. A ne pas manquer ! *<https://www.normandie-tourisme.fr/beaux-detours/chateau-gaillard-les-andelys/>*
 
-###### **\*Vernon**, **Gaillon***
+##### **\*Vernon**, **Gaillon***
 
 * *Culture et loisirs* : **Vernon, ville d’arts et d’histoire**. Ancienne cité ayant conservée des vestiges des époques antique, médiévale et moderne. Il est agréable de passer une journée entière à se consacrer à la visite de ses **maisons à colombages**, **Pont Médiéval du XII ème siècle et le Vieux Moulin (XVI ème siècle)** qui s’est installé dessus, **Château des Tourelles (XIII ème siècle) :** *<https://musee-chateau.fr/chateau-tourelles/>*
 
@@ -174,7 +174,7 @@ N’hésitez pas non plus à déguster les succulents pâtisseries et les savour
 
 Sur la route, prenez la direction de **Gaillon**, et arrêtez-vous quelques heures pour visiter son **magnifique château Renaissance** et ses jardins : *<http://www.ville-gaillon.fr/>*
 
-###### ***L’abbaye de Fontaine-Guérard***
+##### ***L’abbaye de Fontaine-Guérard***
 
 * *Culture et loisirs* : il s’agit d’une abbaye cistercienne *féminine* fondée au XIII ème siècle. Elle se situe sur la commune de **Radepont**, au cœur de la vallée sauvage de l’Andelle. Elle appartient stylistiquement au style gothique normand sous sa forme précoce. **Visite de l’abbaye et de ses jardins monastique**. **Animations** historique, fêtes médiévales et sur le thème de la nature. **Randonnées** dans la vallée. *<http://www.abbayefontaineguerard.fr/>*
 
@@ -226,9 +226,9 @@ Vous pourrez en effet découvrir la **Pierre Bise**, **ancien monument druidique
 
 Ou encore **Le Quesne à Leu** (le chêne à loup) d’une circonférence de 4 m, dont on dit que c’est à ses pieds que les derniers loups de la forêt furent tués et que des jugements avec exécution furent rendus.
 
-**R![](file:///tmp/lu284241rljdq.tmp/lu284241rljhg_tmp_7d36f51a769ad8ef.jpg) ![](file:///tmp/lu284241rljdq.tmp/lu284241rljhg_tmp_8b31cf46a6ca6aed.jpg) andonnées à pieds, à cheval ou en vélo** au cœur des chênes centenaires et autres essences d’arbres aussi majestueux les uns que les autres. **Sortie découvertes** organisées : se renseigner auprès de l’office de tourisme Aumale/ Blangy-sur-Bresle. *<https://www.tourisme-aumale-blangy.fr/accueil/decouvrir-notre-territoire/du-cote-loisirs/la-foret-deu/>*
+**R![](file:///tmp/lu284241rljdq.tmp/lu284241rljhg_tmp_7d36f51a769ad8ef.jpg) ![](file:///tmp/lu284241rljdq.tmp/lu284241rljhg_tmp_8b31cf46a6ca6aed.jpg) randonnées à pieds, à cheval ou en vélo** au cœur des chênes centenaires et autres essences d’arbres aussi majestueux les uns que les autres. **Sortie découvertes** organisées : se renseigner auprès de l’office de tourisme Aumale/ Blangy-sur-Bresle. *<https://www.tourisme-aumale-blangy.fr/accueil/decouvrir-notre-territoire/du-cote-loisirs/la-foret-deu/>*
 
-###### ***La ferme de Beaumont*** : entre la ville d’Eu et la forêt, non loin du site archéologique Briga. Visite de la ferme d’élevage. On y découvre les animaux des fermes et également les animaux d’apparat et d’agrément. *<https://www.fermedebeaumont.com/>*
+##### ***La ferme de Beaumont*** : entre la ville d’Eu et la forêt, non loin du site archéologique Briga. Visite de la ferme d’élevage. On y découvre les animaux des fermes et également les animaux d’apparat et d’agrément. *<https://www.fermedebeaumont.com/>*
 
 ##### **La forêt d’Eawy***: circuits randonnées pédestre, vélo, équestre: se renseigner auprès de l’office de tourisme Bray-Eawy. *<https://tourisme.brayeawy.fr/forets/>*
 
