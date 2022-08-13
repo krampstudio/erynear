@@ -24,8 +24,13 @@ Son montant s’élève à 1 euro par personne et par nuitée. A titre d’exemp
 
 ### L’acompte
 
-Il vous sera possible de payer la location en **2 versements**. Un premier acompte de 200 euros pourra nous être versé au moment de la finalisation de la réservation. Le reste de la somme sera envoyée **au maximum 15 jours avant la location.** 
-Le ou les paiements se font pour le moment **par chèque** à l’adresse qui vous sera indiquée lors de la réservation. Réservation qui sera donc **confirmée une fois le chèque encaissé et validé par la banque.**
+Il vous sera possible de payer la location en **2 versements**. Le dernier sera à verser **15 jours avant la réservation dernier délais**. Dans le cas contraire, la réservation sera annulée.
+
+Le ou les paiements se font pour le moment par **chèque** à l’adresse qui vous sera indiquée lors de la réservation **ou par virement** **bancaire**. 
+
+**Réservation qui sera confirmée et validée une fois chèque(s) OU virement(s) validés par votre banque.**
+
+![acompte gîte eryn ear](/uploads/acompte_1.jpg "acompte_1.jpg")
 
 ### L’accueil
 
