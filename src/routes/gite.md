@@ -87,7 +87,7 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
 
-![jeux de societé eryn eär]()
+![jeux de societé salle eryn eär](/uploads/gite_148.jpg)
 
 **La musique :** la récupération des CD dans toute la famille sur 3 générations implique une collection assez hétéroclite… de l’affectif, des surprises, des découvertes…
 
