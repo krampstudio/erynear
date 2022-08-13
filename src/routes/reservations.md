@@ -36,13 +36,10 @@ Lui incombera également les délicates missions liées au départ … Elle sera
 
 ### La caution
 
-Ce qui nous amène à aborder le fameux chapitre concernant le **côté Obscur** des locations, à savoir la **caution.** 
-
-Son montant s’élève à **400 euros**. Le chèque ne sera pas encaissé, c’est une garantie. Il faudra l’envoyer avec le chèque de paiement ou d’acompte au plus tard **15 jours avant votre** arrivée au Gîte. Tout comme le paiement, son envoi valide la réservation. S’il n’est pas envoyé avec, la réservation sera mise en attente et s’il n’est pas reçu rapidement, la réservation pourra être annulée.
-
+Ce qui nous amène à aborder le fameux chapitre concernant le **côté Obscur** des locations, à savoir la **caution**. 
+Son montant s’élève à **400 euros.** Le chèque ne sera pas encaissé, c’est une garantie. Elle sera remise à Patricia  lors de votre arrivée au Gîte. 
 Un état des lieux aura lieu en début et fin de séjour. **La maison et le jardin devront impérativement être rendus propres et sans dégradations.**
-
-Si à tout hasard, ce n’est pas le cas, un **chèque du montant des heures de ménage supplémentaires vous sera réclamé et/ou un chèque couvrant les éventuels dommages occasionnés.** Dans les 2 cas, il y aura des photos à l’appui que notre collègue nous fera parvenir si nous ne pouvons le constater par nous même sur place. 
+Si à tout hasard, ce n’est pas le cas, un **chèque du montant des heures de ménage supplémentaires** vous sera réclamé et/ou un c**hèque couvrant les éventuels dommages occasionnés**. Dans les 2 cas, il y aura des photos à l’appui que notre collègue nous fera parvenir si nous ne pouvons le constater par nous même sur place. 
 
 Tarif de la prestation ménage en plus si besoin : **10 euros de l’heure** : exemple : 2 heures de ménage **en plus** = un chèque de 20 euros.
 
@@ -54,7 +51,7 @@ Transformer la maison à laquelle nous sommes liés depuis toujours en gîte est
 
 Par certains côtés, la création d’un gîte peut s’apparenter à l’écriture d’un roman. On invente un monde que l’on aimerait faire découvrir à ses hôtes. Pour maintenir le cap dans ces moments de travaux, d’aménagements, de création … être soutenu et aidé par sa famille et ses amis est indispensable. Cela nous permet d’avancer, de ne pas désespérer, de moins douter et d’avoir d’autres idées.
 
-Commençons donc par la famille : Guillaume et moi, nous tenions à remercier nos petites « sorcières » de filles : **Mélissandre et Eiléanor**. Un immense merci également à **Françoise (Mamichat) et Jean (Papiza)**, à **Angèle et Baptiste**, à tonton Dédé et tata Michèle, Patoche et Mijo et à toute la descendance « Pichot » actuelle et à venir …, à tonton Stéphane (dit Jean Stéphane), Euriel et leurs enfants, à tata Lulu et Annabelle (dit Chico) et surtout un infini merci et une pensée éternelle à ma maman et mon papa **Nicole et Jacques** (dit Pépé Babe), à mes grands-parents Henriette et Albert (Mamillon et Papillon), Henriette et Emile (Mamitutune et Papipépère) sans qui cette maison n’aurait jamais vu le jour !
+Commençons donc par la famille : Guillaume et moi, nous tenions à remercier nos petites « sorcières » de filles : **Mélissandre et Eiléanor**. Un immense merci également à **Françoise (Mamichat) et Jean (Papiza)**, à **Angèle (la pro des réseaux !) et Baptiste**, à tonton Dédé et tata Michèle, Patoche et Mijo et à toute la descendance « Pichot » actuelle et à venir …, à tonton Stéphane (dit Jean Stéphane), Euriel et leurs enfants, à tata Lulu et Annabelle (dit Chico) et surtout un infini merci et une pensée éternelle à ma maman et mon papa **Nicole et Jacques** (dit Pépé Babe), à mes grands-parents Henriette et Albert (Mamillon et Papillon), Henriette et Emile (Mamitutune et Papipépère) sans qui cette maison n’aurait jamais vu le jour !
 
 Et que serions-nous sans les copains ! 
 
