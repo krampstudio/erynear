@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\\\[50.02777589, 1.31961465]}
+        coords={\\\\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={\\\[{
+        markers={\\\\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -25,13 +25,13 @@ label: Le Gîte
 
 **Eryn Eär** est à l’origine une **maison familiale**. Elle a toujours été un lieu où la famille se retrouvait, un endroit de fêtes entre copains. Nous tenons tout particulièrement à garder cet **esprit de convivialité**. Il n’est pas envisageable de nous séparer de cette maison et en même temps, nous aimerions qu’elle reste vivante pendant que nous ne l’occupons pas. C’est pour cela que nous avons pensé en faire un gîte, un lieu de vacances au bord de la mer, non loin des forêts et chemins de randonnées, une **location que nous aimerions abordable pour tous**.
 
-![eryn ear vue d'ensemble](/uploads/gite_112.jpg)
+![eryn ear vue d'ensemble gite](/uploads/gite_112.jpg)
 
 Dès que vous franchissez le portail **d’Eryn Eär**, vous serez instantanément libérés de toutes ces petites choses Ô combien pénibles qui vous empêchent d’être sereins.
 
 Vous pénétrez d’abord dans le jardin luxuriant et sinueux. Même si vos bagages sont lourds, prenez le temps d’admirer la mer que l’on aperçoit entre les branches de deux arbres. Dirigez-vous ensuite vers la porte d’entrée, ouvrez-là, vous êtes arrivés… vous êtes en vacances ! L’intérieur, se veut **douillet et confortable** avec une multitude de **livres** en tout genre, des **jeux de société** originaux, tout le **matériel de pêche à pied**, un **billard** et tout un équipement qui vous permettra d’atteindre une parfaite béatitude.
 
-![arrivée par le jardin eryn eär](/uploads/gite-eryn-ear-8.jpg)
+![arrivée par le jardin eryn eär](/uploads/gite_116.jpg)
 
 Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détente!
 
