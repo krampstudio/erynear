@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\\\\\[50.02777589, 1.31961465]}
+        coords={\\\\\\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={\\\\\[{
+        markers={\\\\\\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -79,7 +79,7 @@ Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres 
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
-![cuisine Dultha]()
+![cuisine Dultha eryn eär](/uploads/gite_101.jpg)
 
 ##### **Le lumineux salon – salle à manger, *Yomenië* :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
 
