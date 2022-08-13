@@ -62,6 +62,8 @@ Par certains côtés, la création d’un gîte peut s’apparenter à l’écri
 
 Commençons donc par la famille : Guillaume et moi, nous tenions à remercier nos petites « sorcières » de filles : **Mélissandre et Eiléanor**. Un immense merci également à **Françoise (Mamichat) et Jean (Papiza)**, à **Angèle (la pro des réseaux !) et Baptiste**, à tonton Dédé et tata Michèle, Patoche et Mijo et à toute la descendance « Pichot » actuelle et à venir …, à tonton Stéphane (dit Jean Stéphane), Euriel et leurs enfants, à tata Lulu et Annabelle (dit Chico) et surtout un infini merci et une pensée éternelle à ma maman et mon papa **Nicole et Jacques** (dit Pépé Babe), à mes grands-parents Henriette et Albert (Mamillon et Papillon), Henriette et Emile (Mamitutune et Papipépère) sans qui cette maison n’aurait jamais vu le jour !
 
+![eryn ear rouge gorge remerciements ](/uploads/merci_1.jpg "merci_1.jpg")
+
 Et que serions-nous sans les copains ! 
 
 Des milliards de mercis à **Bertrand, notre « webmaster »** pour ses talents, sa patience et son courage face à notre totale ignorance en informatique…. A **Emmylou** pour ses conseils « brico-déco ».
@@ -73,6 +75,8 @@ A **Claire et Fabrice**, nos hôtes « cobayes » les plus fidèles !
 A **Agnès et Loïc**, merci pour les précieux conseils nous ayant aidés à percer les mystères de la chaudière...
 
 Mais aussi à Goire et Kanet, Sam, Solange et Dominique, La Fleur et Irfan, Patou, Finette et Mathieu, Francesca et Fred (les premiers à avoir explorer les lieux), et à tous les autres qui nous soutiennent toujours même s’ils sont loin !
+
+![eryn eär remerciement étrille](/uploads/merci_2.jpg "merci_2.jpg")
 
 ## Disponibilités
 
