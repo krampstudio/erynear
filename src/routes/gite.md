@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={[50.02777589, 1.31961465]}
+        coords={\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={[{
+        markers={\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -25,11 +25,15 @@ label: Le Gîte
 
 **Eryn Eär** est à l’origine une **maison familiale**. Elle a toujours été un lieu où la famille se retrouvait, un endroit de fêtes entre copains. Nous tenons tout particulièrement à garder cet **esprit de convivialité**. Il n’est pas envisageable de nous séparer de cette maison et en même temps, nous aimerions qu’elle reste vivante pendant que nous ne l’occupons pas. C’est pour cela que nous avons pensé en faire un gîte, un lieu de vacances au bord de la mer, non loin des forêts et chemins de randonnées, une **location que nous aimerions abordable pour tous**.
 
+![eryn ear vue d'ensemble](/uploads/gite-eryn-ear-2.jpg)
+
 Dès que vous franchissez le portail **d’Eryn Eär**, vous serez instantanément libérés de toutes ces petites choses Ô combien pénibles qui vous empêchent d’être sereins.
 
 Vous pénétrez d’abord dans le jardin luxuriant et sinueux. Même si vos bagages sont lourds, prenez le temps d’admirer la mer que l’on aperçoit entre les branches de deux arbres. Dirigez-vous ensuite vers la porte d’entrée, ouvrez-là, vous êtes arrivés… vous êtes en vacances ! L’intérieur, se veut **douillet et confortable** avec une multitude de **livres** en tout genre, des **jeux de société** originaux, tout le **matériel de pêche à pied**, un **billard** et tout un équipement qui vous permettra d’atteindre une parfaite béatitude.
 
-Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détent!
+![arrivée par le jardin eryn eär](/uploads/gite-eryn-ear-8.jpg)
+
+Pour terminer cette petite présentation et avant de passer au chapitre suivant, permettez-moi de vous faire une petite confidence... Un des moments les plus agréables qui me reste en mémoire, ce sont les retours de randonnées au grand air. Quel plaisir en effet de se reposer après s’être bien défoulé devant un **bon feu de cheminée,** tout en dégustant gaufres ou crêpes, accompagnées d’un savoureux chocolat chaud ! La cheminée, désormais aménagée d’un **insert,** n’attend que vous ! Elle se met un point d’honneur à vous procurer une douce chaleur pour tous vos moments de détente!
 
 ![Le salon du gîte, au coin du feu](/uploads/gite_0.jpg)
 
@@ -65,13 +69,17 @@ Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres 
 
 ![hall d'entrée talam ando](/uploads/gite_2.jpg)
 
+![hall eryn ear](/uploads/arta-1.jpg)
+
 ##### **Une charmante petite cuisine, *Dultha* :** Petite table avec chaises et tabourets. Vue donnant sur le jardin, excellent poste d’observation des oiseaux ! La cuisine est équipée d’un frigo-congélateur, d’une cuisinière vitrocéramique-four, d’un évier double. Un lave-vaisselle 45 cm, environ 10 couverts.
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
-![cuisine Dultha](/uploads/gite_30.jpg)
+![cuisine Dultha](/uploads/dultha-1.jpg)
 
 ##### **Le lumineux salon – salle à manger, *Yomenië* :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
+
+![salon vue d'ensemble yoménié eryn eär](/uploads/yoménié-3.jpg)
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
 
@@ -81,15 +89,17 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 **Les DVDs :** il y a une **télé et un lecteur dvd/blu-ray.** Par contre, il n’y a plus la « live box », donc ***ni internet, ni programme télé***. Pour le moment, apportez vos films préférés car nous n’avons qu’une trentaine de DVD dans la future vidéothèque.
 
-![La facade du gîte](/uploads/gite_1.jpg) ![L'entrée du gîte](/uploads/gite_2.jpg)
+![salon yoménié eryn ear](/uploads/yoménié-1.jpg)
 
-![Le salon salle à manger du gîte](/uploads/gite_3.jpg) ![La cuisine du gîte](/uploads/gite_4.jpg)
+![Le salon salle à manger du gîte](/uploads/gite_3.jpg) ![La cuisine du gîte](/uploads/yoménié-2.jpg)
 
 ##### Présence d’un ensemble **toilettes-douche**. La douche se trouve en face des toilettes.
 
 ##### **La chambre du bas, *Firith* :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
 
-![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith]()
+![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith](/uploads/firith-1.jpg)
+
+![firith chambre du bas eryn eär](/uploads/firith-4.jpg)
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
@@ -97,15 +107,27 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 ![La chambre Yélin](/uploads/gite_9.jpg) ![La chambre Yélin](/uploads/gite_10.jpg)
 
+![yelin cocooning eryn eÄr](/uploads/yélin-4.jpg)
+
 ##### **Chambre *Laër* :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
 
 ![La chambre Laër](/uploads/gite_7.jpg) ![La chambre Laër](/uploads/gite_8.jpg)
 
+![chambre Laër haut eryn eär](/uploads/laër-2.jpg)
+
 ##### **Les toilettes et salles d’eau, *Luimë* :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
+
+![salle bain espace bébé eryn eär](/uploads/luimë-1.jpg)
+
+![salle bain haut eryn eär](/uploads/luimë-4.jpg)
 
 Pièce d’à coté : les toilettes indépendantes. Cette pièce dispose également d’un long placard-coffre dans lequel se trouve la planche à repasser. Le fer se situe sur l’étagère au dessus des toilettes.
 
 ##### **La bibliothèque, *Parma* :** premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
+
+![biblio parma eryn eär](/uploads/parma-2.jpg)
+
+![bibliothèque parma eryn eär](/uploads/parma-1.jpg)
 
 ##### **Le coin enfant, *Hina* :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
 
@@ -140,10 +162,14 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 
 ##### **La cabane en bois** contient tout le matériel de pêche dont vous aurez besoin si vous avez envie de vous essayer à la pêche à pied ! Ainsi que des chaussures pour se baigner et quelques seaux et pelles pour les jeux de sable.
 
+![cabane pêche à pied eryn eär](/uploads/gite-eryn-ear-jardin-1.jpg)
+
 **A noter : nous tenons tout particulièrement à offrir des refuges aux animaux et insectes du jardin, ainsi qu’à protéger les espèces de fleurs sauvages qui y poussent (telles que les orchidées).** Nous avons donc choisi de **ne pas tondre systématiquement la pelouse pour assurer une biodiversité**. Ne vous étonnez pas si le jardin a parfois les herbes un peu hautes, c’est normal ! Mais pas d’inquiétude, vous ne devrez pas tracer votre chemin à la machette pour atteindre la porte d’entrée ! Cette démarche a également été adoptée par la commune et lors de vos balades, il se peut que vous tombiez face à un panneau indiquant les zones refuge non fauchée.
 
-![Le jardin](/uploads/gite_15.jpg)
+![prairie fleurie eryn eär](/uploads/gite_15.jpg)
 
-![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin](/uploads/gite_18.jpg)
+![Le jardin eryn eär](/uploads/gite-eryn-ear-jardin-5.jpg)
 
-![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite_20.jpg)
+![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin](/uploads/gite-eryn-ear-3.jpg)
+
+![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite-eryn-ear-jardin-3.jpg)
