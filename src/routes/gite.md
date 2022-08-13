@@ -43,6 +43,10 @@ Le gîte est **judicieusement positionné**, **spatialement** dans Criel et **g�
 
 #### **Eryn Eär** se situe sur le **flanc de la vallée**, à une **hauteur** suffisante pour observer la Mer depuis l’une des chambres de la maison et depuis le jardin. Egalement installé face au **Mont Joli Bois** et à la **vallée de l’Yères**, vous pourrez librement observer la Nature.
 
+![vallée de l'Yères eryn eär](/uploads/criel-35-copie.jpg)
+
+![vue de la mer au fond en bleu foncé depuis le jardin eryn eär](/uploads/yomenië-salle-12.jpg)
+
 Cette position, en léger retrait par rapport à la côte, présente un autre avantage… et non des moindres …  Vous éviterez ainsi d’être brusquement réveillés, dès l’aurore, par la mélodie stridente de nos amis les Goélands… Et croyez-en ma vieille expérience, ceci est une petite réalité qui vous sautera très rapidement aux yeux, ou plutôt aux oreilles !
 
 #### **La position géographique** du gîte est, quant à elle**,** adaptée **aux différents modes de vacances** que vous avez envisagés.
@@ -60,6 +64,8 @@ Tous ces lieux situés entre 1 minute et 2 heures du gîte vous seront présent�
 ### Visite guidée des pièces
 
 Pour se faire **une première idée du gîte**, voici une **description des pièces**. Le gîte peut accueillir environ 10 personnes réparties dans les 3 chambres, principalement à **caractère familiale**. Ces trois chambres peuvent également faire office de dortoirs si l’on vient par exemple entre amis. Chacune possède des fenêtres donnant sur le jardin. Si vous confirmez la location, un **document plus complet** vous sera envoyé par goéland … oups, par mail. Nous travaillons avec eux uniquement pour les petits trajets urgents. Ces oiseaux marins sont très capricieux. Vous aurez très certainement l’occasion de découvrir leur charmant caractère… (non, non, je n’ai aucune rancœur envers eux …).
+
+
 
 #### **Mais, laissons là ces oiseaux et franchissons ensemble la porte d'entrée pour commencer la visite du rez-de-chaussée :**
 
@@ -82,6 +88,8 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 ![salon vue d'ensemble yoménié eryn eär](/uploads/yoménié-3.jpg)
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
+
+![jeux de societé eryn eär](/uploads/yomenië-salle-10-copie.jpg)
 
 **La musique :** la récupération des CD dans toute la famille sur 3 générations implique une collection assez hétéroclite… de l’affectif, des surprises, des découvertes…
 
