@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\[50.02777589, 1.31961465]}
+        coords={\\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={\[{
+        markers={\\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -25,7 +25,7 @@ label: Le Gîte
 
 **Eryn Eär** est à l’origine une **maison familiale**. Elle a toujours été un lieu où la famille se retrouvait, un endroit de fêtes entre copains. Nous tenons tout particulièrement à garder cet **esprit de convivialité**. Il n’est pas envisageable de nous séparer de cette maison et en même temps, nous aimerions qu’elle reste vivante pendant que nous ne l’occupons pas. C’est pour cela que nous avons pensé en faire un gîte, un lieu de vacances au bord de la mer, non loin des forêts et chemins de randonnées, une **location que nous aimerions abordable pour tous**.
 
-![eryn ear vue d'ensemble](/uploads/gite-eryn-ear-2.jpg)
+![eryn ear vue d'ensemble]()
 
 Dès que vous franchissez le portail **d’Eryn Eär**, vous serez instantanément libérés de toutes ces petites choses Ô combien pénibles qui vous empêchent d’être sereins.
 
@@ -65,8 +65,6 @@ Tous ces lieux situés entre 1 minute et 2 heures du gîte vous seront présent�
 
 Pour se faire **une première idée du gîte**, voici une **description des pièces**. Le gîte peut accueillir environ 10 personnes réparties dans les 3 chambres, principalement à **caractère familiale**. Ces trois chambres peuvent également faire office de dortoirs si l’on vient par exemple entre amis. Chacune possède des fenêtres donnant sur le jardin. Si vous confirmez la location, un **document plus complet** vous sera envoyé par goéland … oups, par mail. Nous travaillons avec eux uniquement pour les petits trajets urgents. Ces oiseaux marins sont très capricieux. Vous aurez très certainement l’occasion de découvrir leur charmant caractère… (non, non, je n’ai aucune rancœur envers eux …).
 
-
-
 #### **Mais, laissons là ces oiseaux et franchissons ensemble la porte d'entrée pour commencer la visite du rez-de-chaussée :**
 
 Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres et gite* ».
@@ -81,7 +79,7 @@ Plusieurs autres photos des pièces sont visibles dans la galerie « *chambres 
 
 Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetière à filtres, une cafetière à piston. Un mixer, un batteur (quelque peu ancien mais qui marche !), un presse-agrume manuel. Pour les ustensiles divers et la vaisselle, n’hésitez pas à fouiller partout : cuisine et salle.
 
-![cuisine Dultha](/uploads/dultha-1.jpg)
+![cuisine Dultha]()
 
 ##### **Le lumineux salon – salle à manger, *Yomenië* :** le refuge de la maison. Pour les moments festifs et ludiques, pour se prélasser et s’évader, pour les banquets conviviaux ou les petits repas au calme, la Grande Salledispose de tout l’équipement nécessaire tel qu’une cheminée avec insert, des coussins, de douillets fauteuils, une grande table, divers verres à bières, les indispensables **appareils à raclette, à gaufres et à crêpes**… Chaise haute pour les petits.
 
@@ -89,7 +87,7 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 **Les jeux :** divers jeux de société sont à votre disposition : les classiques (dominos, cartes, scrabble, Mah-jong…), les souvenirs d’enfance (Hôtel, Piège, Intrigues à Venise …), les découvertes (Cthulhu, Arcana, Hocus-Pocus …), les ambiances « apéro games » (Duplik, Portrait Robot, Pigeon Pigeon …).
 
-![jeux de societé eryn eär](/uploads/yomenië-salle-10-copie.jpg)
+![jeux de societé eryn eär]()
 
 **La musique :** la récupération des CD dans toute la famille sur 3 générations implique une collection assez hétéroclite… de l’affectif, des surprises, des découvertes…
 
@@ -105,9 +103,9 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 ##### **La chambre du bas, *Firith* :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
 
-![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith](/uploads/firith-1.jpg)
+![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith]()
 
-![firith chambre du bas eryn eär](/uploads/firith-4.jpg)
+![firith chambre du bas eryn eär]()
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
@@ -115,33 +113,33 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 ![La chambre Yélin](/uploads/gite_9.jpg) ![La chambre Yélin](/uploads/gite_10.jpg)
 
-![yelin cocooning eryn eÄr](/uploads/yélin-4.jpg)
+![yelin cocooning eryn eÄr]()
 
 ##### **Chambre *Laër* :** un lit double (1,40 m) et un système de lits encastrables : soit 1, soit 2 de 80/200. Un petit bureau, balcon donnant sur le jardin et petit salon de jardin 2 personnes pour la belle saison.
 
 ![La chambre Laër](/uploads/gite_7.jpg) ![La chambre Laër](/uploads/gite_8.jpg)
 
-![chambre Laër haut eryn eär](/uploads/laër-2.jpg)
+![chambre Laër haut eryn eär]()
 
 ##### **Les toilettes et salles d’eau, *Luimë* :** en haut, se situe la salle de bain avec douche (c’est l’ancienne baignoire qui fait office de bac à douche), Il y a également 2 lavabos et un coin bébé (table à langer, paniers pour les cotons et les couches, poubelles pour couches, baignoire).
 
-![salle bain espace bébé eryn eär](/uploads/luimë-1.jpg)
+![salle bain espace bébé eryn eär]()
 
-![salle bain haut eryn eär](/uploads/luimë-4.jpg)
+![salle bain haut eryn eär]()
 
 Pièce d’à coté : les toilettes indépendantes. Cette pièce dispose également d’un long placard-coffre dans lequel se trouve la planche à repasser. Le fer se situe sur l’étagère au dessus des toilettes.
 
 ##### **La bibliothèque, *Parma* :** premier espace en haut des escaliers. Elle sera progressivement agrandie et complétée. Il y a des livres de toute sorte. A abuser sans aucun complexe !!!
 
-![biblio parma eryn eär](/uploads/parma-2.jpg)
+![biblio parma eryn eär]()
 
-![bibliothèque parma eryn eär](/uploads/parma-1.jpg)
+![bibliothèque parma eryn eär]()
 
 ##### **Le coin enfant, *Hina* :** **Le deuxième espace est aménagé pour les enfants**. Ils disposent de livres sur des étagères. Quelques petits jeux premiers âges (0-5ans). Dans la petite armoire : d’autres livres, des jeux de société, du matériel de bricolage et dessin sont à leur disposition. Vous pourrez trouver également dans l’armoire un ***lit pour bébé* de la marque Phil et Ted** (à même le sol). Un petit matelas pour le lit, un ***rehausseur*** autogonflant « The First Years ». Un ***porte bébé* spécial** « grande randonnée », support dorsal.
 
-![La salle de bain](/uploads/gite_11.jpg) ![Le coin enfant, Hina](/uploads/gite_12.jpg)
+![La salle de bain](/uploads/gite_11.jpg) ![Le coin enfant, Hina]()
 
-![La bibliothèque](/uploads/gite_13.jpg) ![Le palier](/uploads/gite_14.jpg)
+![La bibliothèque](/uploads/gite_13.jpg) ![Le palier]()
 
 #### **Engouffrons nous ensuite dans le couloir menant aux pièces du sous sol :**
 
@@ -170,14 +168,14 @@ La **pièce qui donne dehors (avec la porte coulissante) :**
 
 ##### **La cabane en bois** contient tout le matériel de pêche dont vous aurez besoin si vous avez envie de vous essayer à la pêche à pied ! Ainsi que des chaussures pour se baigner et quelques seaux et pelles pour les jeux de sable.
 
-![cabane pêche à pied eryn eär](/uploads/gite-eryn-ear-jardin-1.jpg)
+![cabane pêche à pied eryn eär]()
 
 **A noter : nous tenons tout particulièrement à offrir des refuges aux animaux et insectes du jardin, ainsi qu’à protéger les espèces de fleurs sauvages qui y poussent (telles que les orchidées).** Nous avons donc choisi de **ne pas tondre systématiquement la pelouse pour assurer une biodiversité**. Ne vous étonnez pas si le jardin a parfois les herbes un peu hautes, c’est normal ! Mais pas d’inquiétude, vous ne devrez pas tracer votre chemin à la machette pour atteindre la porte d’entrée ! Cette démarche a également été adoptée par la commune et lors de vos balades, il se peut que vous tombiez face à un panneau indiquant les zones refuge non fauchée.
 
-![prairie fleurie eryn eär](/uploads/gite_15.jpg)
+![prairie fleurie eryn eär]()
 
-![Le jardin eryn eär](/uploads/gite-eryn-ear-jardin-5.jpg)
+![Le jardin eryn eär]()
 
-![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin](/uploads/gite-eryn-ear-3.jpg)
+![Le jardin](/uploads/gite_16.jpg) ![Le jardin](/uploads/gite_17.jpg) ![Le jardin]()
 
-![Le jardin](/uploads/gite_19.jpg) ![Le jardin](/uploads/gite-eryn-ear-jardin-3.jpg)
+![Le jardin](/uploads/gite_19.jpg) ![Le jardin]()
