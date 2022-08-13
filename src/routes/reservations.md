@@ -36,6 +36,8 @@ Lui incombera également les délicates missions liées au départ … Elle sera
 
 ### La caution
 
+![caution_2.jpg](/uploads/3-copie.jpg "caution eryn eär gargouille")
+
 Ce qui nous amène à aborder le fameux chapitre concernant le **côté Obscur** des locations, à savoir la **caution**. 
 Son montant s’élève à **400 euros.** Le chèque ne sera pas encaissé, c’est une garantie. Elle sera remise à Patricia  lors de votre arrivée au Gîte. 
 Un état des lieux aura lieu en début et fin de séjour. **La maison et le jardin devront impérativement être rendus propres et sans dégradations.**
@@ -44,6 +46,8 @@ Si à tout hasard, ce n’est pas le cas, un **chèque du montant des heures de 
 Tarif de la prestation ménage en plus si besoin : **10 euros de l’heure** : exemple : 2 heures de ménage **en plus** = un chèque de 20 euros.
 
 Une fois, et une fois seulement que le chèque de dédommagement général nous sera parvenu, nous **déchirerons** votre chèque de caution. Ici, deux solutions : soit nous vous envoyons une photo lisible sur téléphone et par mail du dit-chèque détruit, soit nous vous le renvoyons (déchiré) par courrier.
+
+![caution_1.jpg](/uploads/2-copie.jpg "caution eryn eär dragon")
 
 ### Remerciements
 
