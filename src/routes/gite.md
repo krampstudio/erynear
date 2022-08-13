@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\\[50.02777589, 1.31961465]}
+        coords={\\\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={\\[{
+        markers={\\\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -25,7 +25,7 @@ label: Le Gîte
 
 **Eryn Eär** est à l’origine une **maison familiale**. Elle a toujours été un lieu où la famille se retrouvait, un endroit de fêtes entre copains. Nous tenons tout particulièrement à garder cet **esprit de convivialité**. Il n’est pas envisageable de nous séparer de cette maison et en même temps, nous aimerions qu’elle reste vivante pendant que nous ne l’occupons pas. C’est pour cela que nous avons pensé en faire un gîte, un lieu de vacances au bord de la mer, non loin des forêts et chemins de randonnées, une **location que nous aimerions abordable pour tous**.
 
-![eryn ear vue d'ensemble]()
+![eryn ear vue d'ensemble](/uploads/gite_112.jpg)
 
 Dès que vous franchissez le portail **d’Eryn Eär**, vous serez instantanément libérés de toutes ces petites choses Ô combien pénibles qui vous empêchent d’être sereins.
 
