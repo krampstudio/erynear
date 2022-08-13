@@ -14,9 +14,9 @@ label: Le Gîte
 
 <div style="float: left; margin: 0 .75rem .75rem 0;">
     <Map  
-        coords={\\\\[50.02777589, 1.31961465]}
+        coords={\\\\\[50.02777589, 1.31961465]}
         zoom={14}
-        markers={\\\\[{
+        markers={\\\\\[{
             coords: [50.02777589, 1.31961465],
             label: '<b>Le gîte</b><br>6, rue du Petit Bois<br>Criel-Sur-Mer'
         }]}
@@ -103,9 +103,9 @@ Il n’y a pas de micro ondes (on n’aime pas …). Une bouilloire et cafetiè
 
 ##### **La chambre du bas, *Firith* :** un lit double (1,30 m) et 2 simples (l’un de 90/200, l’autre est une chauffeuse-lit avec sommier à lattes de 80/200) et un lavabo.
 
-![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith]()
+![La chambre du bas, Firith](/uploads/gite_5.jpg) ![La chambre du bas, Firith](/uploads/gite_103.jpg)
 
-![firith chambre du bas eryn eär]()
+![firith chambre du bas eryn eär](/uploads/gite_106.jpg)
 
 #### **Gravissons maintenant les degrés pour arriver à l’étage :**
 
