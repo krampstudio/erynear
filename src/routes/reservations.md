@@ -5,14 +5,17 @@ label: Réservation
 <script>
     import Calendar from '../Calendar.svelte';
     import Prices from '../Prices.svelte';
-
-    const widgetProduit = AllianceReseaux.Widget.Instance( "Produit", { 
-        idPanier:"86vz8_M", 
-        idIntegration:1178, 
-        langue:"fr", 
-        ui:"OSMB-126960-1" 
-    } );
-    widgetProduit.Initialise();
+    import { browser } from from '$app/environment';
+ 
+    if(browser){
+        const widgetProduit = AllianceReseaux.Widget.Instance( "Produit", { 
+            idPanier:"86vz8_M", 
+            idIntegration:1178, 
+            langue:"fr", 
+            ui:"OSMB-126960-1" 
+        } );
+        widgetProduit.Initialise();
+    }
 </script>
 
 ## Tarifs et réservations
