@@ -5,7 +5,7 @@ label: Réservation
 <script>
     import Calendar from '../Calendar.svelte';
     import Prices from '../Prices.svelte';
-    import { browser } from from '$app/environment';
+    import { browser } from '$app/environment';
  
     if(browser){
         const widgetProduit = AllianceReseaux.Widget.Instance( "Produit", { 
