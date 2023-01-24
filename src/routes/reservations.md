@@ -5,16 +5,15 @@ label: Réservation
 <script>
     import Calendar from '../Calendar.svelte';
     import Prices from '../Prices.svelte';
+
+    const widgetProduit = AllianceReseaux.Widget.Instance( "Produit", { 
+        idPanier:"86vz8_M", 
+        idIntegration:1178, 
+        langue:"fr", 
+        ui:"OSMB-126960-1" 
+    } );
+    widgetProduit.Initialise();
 </script>
-<svelte:head>
-    <script type="text/javascript" src="//gadget.open-system.fr/widgets-libs/rel/noyau-1.0.min.js"></script>
-    <script type="text/javascript">
-    ( function() {
-        var widgetProduit = AllianceReseaux.Widget.Instance( "Produit", { idPanier:"86vz8_M", idIntegration:1178, langue:"fr", ui:"OSMB-126960-1" } );
-        widgetProduit.Initialise();
-    })();
-    </script>
-<svelte:head>
 
 ## Tarifs et réservations
 
@@ -31,8 +30,6 @@ Il a été calculé afin que nous puissions garder la maison et l’entretenir, 
 
 A noter : Il faudra ajouter également la taxe de séjour relative à la commune de Criel sur Mer. 
 Son montant s’élève à 1 euro par personne et par nuitée. A titre d’exemple, un séjour de 7 nuits avec 2 adultes et 2 enfants reviendrait à 14 euros supplémentaires, sachant que seuls les adultes comptent.
-
-<Prices />
 
 ### L’acompte
 
@@ -93,5 +90,3 @@ Mais aussi à Goire et Kanet, Sam, Solange et Dominique, La Fleur et Irfan, Pato
 ## Disponibilités
 
 Les dates disponibles pour cette saison sont affichées en vert ci-dessus. Si vous souhaitez réserver le gîte veuillez nous [nous contacter](/contact).
-
-<Calendar />
