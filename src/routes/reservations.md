@@ -90,6 +90,3 @@ Mais aussi à Goire et Kanet, Sam, Solange et Dominique, La Fleur et Irfan, Pato
 
 ![eryn eär remerciement étrille](/uploads/merci_2.jpg "merci_2.jpg")
 
-## Disponibilités
-
-Les dates disponibles pour cette saison sont affichées en vert ci-dessus. Si vous souhaitez réserver le gîte veuillez nous [nous contacter](/contact).

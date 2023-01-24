@@ -79,7 +79,7 @@
         color: #000;
     }
     header nav ul {
-        background-color: rgba(255, 255, 255, 0.45);
+        background-color: rgba(255, 255, 255, 0.55);
         border-radius: 4px;
         list-style-type: none;
         display: flex;
@@ -261,12 +261,12 @@
     <nav>
         <ul>
             <li><a href="/">Accueil</a></li>
-            <li><a href="/presentation">Les présentations</a></li>
+            <li><a href="/presentation">Présentations</a></li>
             <li><a href="/gite">Le gîte</a></li>
             <li><a href="/alentour">Terres d’Eryn Ëar</a></li>
             <li><a href="/normandie">La Normandie</a></li>
             <li><a href="/glossaire">Glossaire</a></li>
-            <li><a href="/reservations">Tarifs Réservations</a></li>
+            <li><a href="/reservations">Réservations</a></li>
             <li><a href="/contact">Contact</a></li>
         </ul>
     </nav>
